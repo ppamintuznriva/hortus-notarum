@@ -5,6 +5,7 @@
 
 
 Hi! Welcome to my digital garden.
+I like to learn.
 
 
 
