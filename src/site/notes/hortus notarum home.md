@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hortus-notarum-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink1":"/hortus-notarum-home/","tags":["gardenEntry"]}
 ---
 
 Hi! Welcome to my digital garden
