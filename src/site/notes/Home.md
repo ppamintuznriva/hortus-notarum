@@ -9,7 +9,7 @@
 
 My name is Paula/Z, and I am a researcher and editor based in Baguio City, Philippines. 
 
-This space serves as a repository of my living thoughts, things I learn, rabbit holes I fall into, etc. Not quite a blog in the classical sense, here you will find initial thoughts, growing ideas, notes on stuff I am reading,  maybe some essays here and there, all in the spirit of learning in public. While it *is* curated, it's not always organized (and that's the beauty of it).
+This space serves as a repository of my living thoughts, things I'm learning, rabbit holes I fall into, etc. Not quite a blog in the classical sense, here you will find initial thoughts, growing ideas, notes on stuff I am reading,  maybe some essays here and there, all in the spirit of learning in public. While it *is* curated, it's not always organized (and that's the beauty of it).
 
 As you explore:
 1. Embrace the unpolished: Some/most ideas here are works in progress, and that's OK.
