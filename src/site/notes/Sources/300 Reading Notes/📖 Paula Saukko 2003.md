@@ -3,8 +3,6 @@
 ---
 
 
-
-# Doing Research in Cultural Studies
 #readingnote
 
 [Open in Zotero](zotero://select/items/@saukkoDoingResearchCultural2003)
