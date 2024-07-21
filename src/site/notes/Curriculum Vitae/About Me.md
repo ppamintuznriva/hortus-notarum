@@ -10,3 +10,7 @@ My name is Paula and I am an academic researcher from Baguio City, Philippines. 
 My professional work involves production of [The Cordillera Review](https://thecordillerareview.upb.edu.ph/), UP Baguio's academic journal, as well as full [book projects](https://shopee.ph/cordillera_studies_center). I enjoy learning about research methodologies, developments in knowledge management, and new things in general.
 
 My research interests include cultural studies, postcolonial discourses of childrearing, critical heritage studies, studies of childhood and empire.
+
+
+
+Profile photo from [makowka](https://picrew.me/en/image_maker/644129) on Picrew

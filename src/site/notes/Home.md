@@ -15,10 +15,10 @@ As you explore:
 1. Embrace the unpolished: Some/most ideas here are works in progress, and that's OK.
 2. Follow your gut: These thoughts are not strictly organized, feel free to jump between links and see where they take you.
 3. Check timestamps: Note when a piece was last tended to.
-6. Engage thoughtfully: Comments and discussions are welcome, you can find me on X/Twitter at @ppamintuznriva.
+6. Engage thoughtfully: Comments and discussions are welcome, you can find me on X/Twitter at [@ppamintuznriva](https://x.com/ppamintuznriva).
 7. Be an active and responsible visitor: Not sure where you stand in the digital garden? Check the [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos) by Shawn Wang.
 
-![75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png](/img/user/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)
+![75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png|500](/img/user/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)
 
 Feel free to wander, ponder, and watch how these ideas grow over time. Happy visiting!
 
