@@ -26,7 +26,7 @@ Cultural studies provides latitude for a variety of methodologies in the interes
 > many method books (but certainly not all of them) view methods in positivist terms as 'magnifying glasses' that are inserted between the scholar and the 'reality' being studied. It is understood that if these methods, or lenses, are used correctly, or according to instructions, they will help the scholar to get closer to an 'accurate' or objective and unbiased view of reality. (9)
 
 > [!quote] BUT
-> One of the basic aims of this book is, however, to explore how the reality changes when we change the research approach or lens, through which we look at it.
+> One of the basic aims of this book is, however, to explore how the reality changes when we change the research approach or lens, through which we look at it. (9)
 
 > [!important]
 > we need to be more reflexive about the way in which our research always opens up a partial and political perspective on reality (9)
@@ -64,12 +64,10 @@ Cultural studies provides latitude for a variety of methodologies in the interes
 
 **Paradigms of combining methodologies**
 ![@saukkoDoingResearchCultural2003-36-x32-y410.png](/img/user/Extras/Images/@saukkoDoingResearchCultural2003-36-x32-y410.png)
+(Saukko 2003, 25)
 
 -  [[triangulation\|triangulation]] - using and combining different materials and methods to see if they corroborate each other,
 	- related to a [[positivist perspective\|positivist perspective]] - reality stands still and research is outside of it, looking in, trying to get as close to reality as possible. However, [[research is a social activity\|research is a social activity]]
-- 
-
-
 - [[crystallization (mixing methodologies)\|crystallization (mixing methodologies)]] (Richardson 2000)
 - 
 
