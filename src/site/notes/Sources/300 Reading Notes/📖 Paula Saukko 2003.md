@@ -48,7 +48,7 @@ Cultural studies provides latitude for a variety of methodologies in the interes
 - [[research as predatory\|research as predatory]] , [[research can never be objective\|research can never be objective]] related: [@smithDecolonizingMethodologiesResearch1999]
 - [[from validity to validities\|from validity to validities]] - =="The different notions of validity draw attention to the unfeasibility of the notion of validity as a singular 'truth'"== (22)
 	- [['dialogic validity'\|'dialogic validity']] (hermeneutic) - "humanistic" 
-	- [[Cards/🌱 'deconstructive validity'\|🌱 'deconstructive validity']](poststructuralist) - "structuralist"
+	- [[Cards/🫛 'deconstructive validity'\|🫛 'deconstructive validity']](poststructuralist) - "structuralist"
     - [['contextual validity'\|'contextual validity']] (realist or contextualist) - New Leftist
 
 >[!quote] Dialogism does not view research in terms of describing other worlds from the outside, but in terms of an encounter or interaction between different worlds. (20)
