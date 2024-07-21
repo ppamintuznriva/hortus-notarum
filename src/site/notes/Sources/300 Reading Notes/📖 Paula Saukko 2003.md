@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/300-reading-notes/paula-saukko-2003/","title":"Doing Research in Cultural Studies","tags":["🤓","🔥"]}
 ---
 
-Saukko, Paula. 2003. _Doing Research in Cultural Studies_. 6 Bonhill Street, London England EC2A 4PU United Kingdom: SAGE Publications Ltd. [https://doi.org/10.4135/9781849209021](https://doi.org/10.4135/9781849209021).
+Saukko, Paula. 2003. _Doing Research in Cultural Studies_. London: SAGE Publications Ltd. [https://doi.org/10.4135/9781849209021](https://doi.org/10.4135/9781849209021).
 
 
 
