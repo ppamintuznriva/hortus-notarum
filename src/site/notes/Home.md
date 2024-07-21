@@ -5,7 +5,7 @@
 
 ![IMG_7330 1.png|200](/img/user/IMG_7330%201.png)
 
-Hi there! You've found my digital garden!
+Hi there! You've found my digital garden! 🌻
 
 My name is Paula/Z, and I am a researcher and editor based in Baguio City, Philippines. 
 
