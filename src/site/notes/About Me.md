@@ -13,7 +13,7 @@ My research interests include cultural studies, postcolonial discourses of child
 
 My non-research interests include mechanical keyboards, personal knowledge management, makerspaces/workspaces, etc. 
 
-I have been involved in a variety of advocacies, including maternal health, babywearing, breastfeeding, mental health, neurodivergence and disability, fair labor, and anti-imperialism.
+I have been involved in a variety of advocacies, including maternal health, babywearing, breastfeeding, mental health, neurodivergence and disability, unionism, and anti-imperialism.
 
 ## Career Experience
 - University Researcher I, University of the Philippines Baguio Cordillera Studies Center (2012-present)
