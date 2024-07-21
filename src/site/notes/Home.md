@@ -23,10 +23,9 @@ As you explore:
 ![75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png|500](/img/user/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)
 
 Feel free to wander, ponder, and watch how these ideas grow over time. 
-Happy visiting!
-
-
-
+*Happy visiting!*
+---
+more [[Curriculum Vitae/about me\|about me]]
 
 
 
