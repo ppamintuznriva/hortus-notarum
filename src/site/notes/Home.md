@@ -11,7 +11,7 @@ My name is Paula/Z, and I am a researcher and editor based in Baguio City, Phili
 
 This space serves as a repository of my living thoughts, things I'm learning, rabbit holes I fall into, etc. Not quite a blog in the classical sense, here you will find initial thoughts, growing ideas, notes on stuff I am reading, maybe some essays here and there, all in the spirit of learning in public. 
 
- Like most digital gardens, I write here mostly for myself, from my personal Obsidian vault. While it *is* curated, it's not always organized (and that's the beauty of it!). 
+Like most digital gardens, I write here mostly for myself, from my personal Obsidian vault (my greenhouse). While it *is* curated, it's not always organized (and that's the beauty of it!). 
 
 **As you explore:**
 1. *Embrace the unrefined*: Some/most ideas here are works in progress. I could be wrong and/or I could be right, and that's ok!
@@ -22,10 +22,15 @@ This space serves as a repository of my living thoughts, things I'm learning, ra
 
 ![75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png](/img/user/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)
 
-Feel free to wander, ponder, and watch how these ideas grow over time. 
+Now, you might have some questions, such as:
+[[What's a digital garden anyway?\|What's a digital garden anyway?]]
+[[How can visitors make their way through this garden?\|How can visitors make their way through this garden?]]
+[[What tools do I use?\|What tools do I use?]]
+[[What is epistemic disclosure? \|What is epistemic disclosure? ]]
+[[What do these 🌱,🌿,🪴,🌳 mean?\|What do these 🌱,🌿,🪴,🌳 mean?]]
 
 *Happy visiting!*
----
+
 more [[About Me\|About Me]]
 
 
