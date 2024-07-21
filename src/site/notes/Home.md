@@ -29,6 +29,7 @@ Now, you might have some questions, such as:
 [[What tools do I use?\|What tools do I use?]]
 [[What is epistemic disclosure? \|What is epistemic disclosure? ]]
 [[What do these 🫚,🫛,🌱,🪴,🌳 mean?\|What do these 🫚,🫛,🌱,🪴,🌳 mean?]]
+[[How can visitors give feedback and how will you respond?\|How can visitors give feedback and how will you respond?]]
 
 *Happy visiting!*
 
