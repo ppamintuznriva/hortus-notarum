@@ -3,9 +3,6 @@
 ---
 
 
-#readingnote
-
-[Open in Zotero](zotero://select/items/@saukkoDoingResearchCultural2003)
 
 ## Abstract
 
