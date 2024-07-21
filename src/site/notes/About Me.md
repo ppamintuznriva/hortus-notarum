@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"About Me"}
+{"dg-publish":true,"permalink":"/about-me/","title":"About Me","dgShowToc":true}
 ---
 
 ![IMG_7330.png|200](/img/user/IMG_7330.png)
