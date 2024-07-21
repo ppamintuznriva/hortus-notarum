@@ -11,6 +11,7 @@ My professional work involves production of [The Cordillera Review](https://thec
 
 My research interests include cultural studies, postcolonial discourses of childrearing, critical heritage studies, studies of childhood and empire.
 
+My non-research interests include mechanical keyboards, personal knowledge management, makerspaces/workspaces, etc.
 
-
+---
 Profile photo from [makowka](https://picrew.me/en/image_maker/644129) on Picrew
