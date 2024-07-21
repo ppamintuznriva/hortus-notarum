@@ -29,7 +29,7 @@ My non-research interests include mechanical keyboards, personal knowledge manag
 2017. "Writing Red Letters: A Student’s Tribute to Sir Del,” in _Hoy, Boy! A Festschrift for Delfin Tolentino, Jr._, edited by B. Tapang and G. Subido. Baguio City: Cordillera Studies Center.
 2013. [“The Indigenous in the Cordillera Studies Center of UP Baguio.”](https://drive.google.com/file/d/1FF2mLJZV4VzSCl3ZmFjBUKxn3MQBjqMg/view?usp=sharing) Co-authored with R. Rovillos. In *Unsettling Discourses: The Theory and Practice of Indigenous Studies.* Baguio City: Cordillera Studies Center.
 ## Other Editing Work
-2016. [_Not Your World Music: Noise in South East Asia](https://www.academia.edu/28481619/NOT_YOUR_WORLD_MUSIC_Noise_in_South_East_Asia_front_matters_?auto=download)._ C. Fermont and D. della Faille. Berlin: Syrphe. Ottawa: [Hushush](http://words.hushush.com/).   
+2016. [*Not Your World Music: Noise in South East Asia*](https://www.academia.edu/28481619/NOT_YOUR_WORLD_MUSIC_Noise_in_South_East_Asia_front_matters_?auto=download). C. Fermont and D. della Faille. Berlin: Syrphe. Ottawa: [Hushush](http://words.hushush.com/).   
 2013. _Unsettling Discourses: The Theory and Practice of Indigenous Studies._ Baguio City: Cordillera Studies Center.
 ## Projects
 2023. to 2024. Team member, Landslide Knowledge Management Center (LKMC) Project, funded by DOST-CAR. Project Leads: W. Alangui and R. Tindaan. [LKMC Online Knowledge Hub.](https://landslidekm.dostcar.ph/) [LKMC How-to Video (with voice-over).](https://drive.google.com/file/d/15Xf9W-JRf7ZwryKkZn7ZuG_HbIAChQ6l/view?usp=sharing).
