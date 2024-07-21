@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/sources/300-reading-notes/paula-saukko-2003/","title":"Doing Research in Cultural Studies","tags":["🤓","🔥"]}
 ---
 
+![cover|150](http://books.google.com/books/content?id=3g3PG75i0aAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
 Saukko, Paula. 2003. _Doing Research in Cultural Studies_. London: SAGE Publications Ltd. [https://doi.org/10.4135/9781849209021](https://doi.org/10.4135/9781849209021).
 
 
