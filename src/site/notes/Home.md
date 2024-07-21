@@ -5,7 +5,7 @@
 
 ![IMG_7330 1.png|200](/img/user/Extras/Images/IMG_7330%201.png)
 
-### Hi there! You've found my digital garden! 🌻
+#### Hi there! You've found my digital garden! 🌻
 
 My name is Paula/Z (she/her, they/them), and I am a researcher and editor based in Baguio City, Philippines. 
 
@@ -33,8 +33,8 @@ Now, you might have some questions, such as:
 
 *Happy visiting!*
 
-more [[About Me\|About Me]]
-### Currently Reading
+#### More [[About Me\|About Me]]
+#### Currently Reading
 | File                                                                                                                                                        | Cover                                                                                                                         | Title                                                                                              | Yr   | Modified                | Added                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---- | ----------------------- | ----------------------- |
 | [[Sources/300 Reading Notes/Gregory J. Ashworth, Brian J. Graham, John E. Tunbridge 2007\|Gregory J. Ashworth, Brian J. Graham, John E. Tunbridge 2007]] | ![cover\|80](http://books.google.com/books/content?id=j-PtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | Pluralising pasts: Heritage, identity and place in multicultural societies                         | 2007 | 10:59 PM - 2024 July 21 | 10:00 AM - 2024 June 18 |
