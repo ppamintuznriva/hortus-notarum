@@ -11,7 +11,9 @@ My professional work involves production of [The Cordillera Review](https://thec
 
 My research interests include cultural studies, postcolonial discourses of childrearing, critical heritage studies, studies of childhood and empire.
 
-My non-research interests include mechanical keyboards, personal knowledge management, makerspaces/workspaces, etc.
+My non-research interests include mechanical keyboards, personal knowledge management, makerspaces/workspaces, etc. 
+
+I have been involved in a variety of advocacies, including maternal health, babywearing, breastfeeding, mental health, neurodivergence and disability, fair labor, and anti-imperialism.
 
 ## Career Experience
 - University Researcher I, University of the Philippines Baguio Cordillera Studies Center (2012-present)
@@ -19,7 +21,7 @@ My non-research interests include mechanical keyboards, personal knowledge manag
 - Teacher/Faculty Member in English and Art History in secondary to undergraduate level classes (2011-2012)
 - Podcast Writer, Editor and Co-Host, [CSC@40: CSC Fieldnotes Podcast](https://open.spotify.com/show/2oDR93FhlZ8qDrXzx5qXHt)(2020–2023)
 ## Education/Qualifications
-- Bachelor of Arts in Language and Literature, University of the Philippines Baguio, 2010 (GWA: 1.8)
+- Bachelor of Arts in Language and Literature, University of the Philippines Baguio, 2010 
 - Angeles City National High School (Special Science Class), now Angeles City National Science High School
 - Dau Central Elementary School (Special Education - Fast Learner Program)
 ## Recognition
