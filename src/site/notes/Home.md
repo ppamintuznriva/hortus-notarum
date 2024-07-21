@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
@@ -28,7 +28,7 @@ Now, you might have some questions, such as:
 [[How can visitors make their way through this garden?\|How can visitors make their way through this garden?]]
 [[What tools do I use?\|What tools do I use?]]
 [[What is epistemic disclosure? \|What is epistemic disclosure? ]]
-[[What do these 🌱,🌿,🪴,🌳 mean?\|What do these 🌱,🌿,🪴,🌳 mean?]]
+[[What do these 🫚,🫛,🌱,🪴,🌳 mean?\|What do these 🫚,🫛,🌱,🪴,🌳 mean?]]
 
 *Happy visiting!*
 
