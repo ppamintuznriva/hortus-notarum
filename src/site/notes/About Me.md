@@ -39,7 +39,7 @@ My non-research interests include mechanical keyboards, personal knowledge manag
 ## Speaking and Public Service
 2024. Evaluator. 3rd College of Social Sciences (Benguet State University) Students' Research Congress. La Trinidad, Benguet.
 2023. to present. Vice President for REPS (Research, Extension, and Professional Staff), All UP Academic Employees Union, University of the Philippines Baguio.
-2023. "Rev UP Your Research: Tips and Tricks for the Fourth Industrial Revolution." Lecture-training delivered for Lyceum Philippines University, College of Arts and Sciences faculty. Baguio City, Philippines.
+2023. Resource Speaker. "Rev UP Your Research: Tips and Tricks for the Fourth Industrial Revolution." Lecture-training delivered for Lyceum Philippines University, College of Arts and Sciences faculty. Baguio City, Philippines.
 2023. Resource Speaker. “The Beat Goes On: A Crash Course on Film, Plot and Structure.” Lecture delivered for Grade 12 Senior High School Students, Pinsao National High School. Baguio City, Philippines. 
 2023. Evaluator. 2nd College of Social Sciences (Benguet State University) Students' Research Congress. La Trinidad, Benguet.
 ## Paper Presentations/Conferences
