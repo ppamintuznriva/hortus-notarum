@@ -5,7 +5,7 @@
 
 ![IMG_7330 1.png|200](/img/user/Extras/Images/IMG_7330%201.png)
 
-**Hi there! You've found my digital garden! 🌻**
+### Hi there! You've found my digital garden! 🌻
 
 My name is Paula/Z (she/her, they/them), and I am a researcher and editor based in Baguio City, Philippines. 
 
@@ -13,7 +13,7 @@ This space serves as a repository of my living thoughts, things I'm learning, ra
 
 Like most digital gardens, I write here mostly for myself, from my personal Obsidian vault (my greenhouse). While it *is* curated, it's not always organized (and that's the beauty of it!). 
 
-**As you explore:**
+#### As you explore:
 1. *Embrace the unrefined*: Some/most ideas here are works in progress. I could be wrong and/or I could be right, and that's ok!
 3. *Follow your gut*: These thoughts are not strictly organized, feel free to jump between links and see where they take you.
 4. *Check timestamps*: Note when a piece was last tended to.
