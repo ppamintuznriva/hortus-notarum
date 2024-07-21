@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"CV"}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae"}
 ---
 
 ![IMG_7330.png|200](/img/user/IMG_7330.png)

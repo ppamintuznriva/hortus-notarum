@@ -20,7 +20,7 @@ This space serves as a repository of my living thoughts, things I'm learning, ra
 5. *Engage thoughtfully*: Comments and discussions are welcome, you can find me on X/Twitter at [@ppamintuznriva](https://x.com/ppamintuznriva).
 6. *Be a responsible visitor:* Not sure where you stand in the digital garden? Check the [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos) by Shawn Wang.
 
-![75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png|500](/img/user/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)
+![75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png](/img/user/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)
 
 Feel free to wander, ponder, and watch how these ideas grow over time. 
 
