@@ -15,7 +15,7 @@ Like most digital gardens, I write here mostly for myself, from my personal Obsi
 
 #### As you explore:
 1. *Embrace the unrefined*: Some/most ideas here are works in progress. I could be wrong and/or I could be right, and that's ok!
-3. *Follow your gut*: These thoughts are not strictly organized, feel free to jump between links and see where they take you.
+3. *Feel free to wander*: These thoughts are not strictly organized, feel free to jump between links and see where they take you.
 4. *Check timestamps*: Note when a piece was last tended to. (That is, if I can figure out how to make them work)
 5. *Engage thoughtfully*: Comments and discussions are welcome, you can find me on X/Twitter at [@ppamintuznriva](https://x.com/ppamintuznriva).
 6. *Be a responsible visitor:* Not sure where you stand in the digital garden? Check the [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos) by Shawn Wang.
