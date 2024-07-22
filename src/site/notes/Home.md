@@ -26,7 +26,7 @@ Now, you might have some questions, such as:
 [[What's a digital garden anyway?\|What's a digital garden anyway?]]
 [[Why learn in public?\|Why learn in public?]]
 [[How can visitors make their way through this garden?\|How can visitors make their way through this garden?]]
-[[What tools do you use?\|What tools do you use?]]
+[[Digital Gardening/What tools do you use?\|What tools do you use?]]
 [[What is epistemic disclosure? \|What is epistemic disclosure? ]]
 [[What do these 🫚,🫛,🌱,🪴,🌳 mean?\|What do these 🫚,🫛,🌱,🪴,🌳 mean?]]
 [[How can visitors give feedback and how will you respond?\|How can visitors give feedback and how will you respond?]]
@@ -44,7 +44,18 @@ Now, you might have some questions, such as:
 
 { .block-language-dataview}
 
+| File                                                                                                                                                                    | Created                  | Updated                 | Size  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- | ----- |
+| [[Atlas/Z Talk MOC\|Z Talk MOC]]                                                                                                                                     | 4:05 PM - 2024 July 01   | 10:35 AM - 2024 July 22 | 449   |
+| [[Cards/🫛 'deconstructive validity'\|🫛 'deconstructive validity']]                                                                                                 | 1:35 PM - 2024 July 18   | 10:25 AM - 2024 July 22 | 1707  |
+| [[Digital Gardening/Digital Garden To Do List\|Digital Garden To Do List]]                                                                                           | 8:27 PM - 2024 July 21   | 9:59 AM - 2024 July 22  | 571   |
+| [[Digital Gardening/What tools do you use?\|What tools do you use?]]                                                                                                 | 9:23 AM - 2024 July 22   | 10:58 AM - 2024 July 22 | 2801  |
+| [[Extras/Templates/DG Publish\|DG Publish]]                                                                                                                          | 7:23 PM - 2024 July 19   | 10:21 AM - 2024 July 22 | 102   |
+| [[Home\|Home]]                                                                                                                                                       | 5:06 PM - 2024 July 19   | 11:02 AM - 2024 July 22 | 2414  |
+| [[Sources/300 Reading Notes/📖 Johanna Drucker 2021\|📖 Johanna Drucker 2021]]                                                                                       | 10:11 AM - 2024 June 19  | 9:24 AM - 2024 July 22  | 1146  |
+| [[Sources/400 Kindle Highlights/Ahrens-How to Take Smart Notes_ One Simple Techni - Sonke Ahrens\|Ahrens-How to Take Smart Notes_ One Simple Techni - Sonke Ahrens]] | 11:40 PM - 2024 March 30 | 10:35 AM - 2024 July 22 | 36666 |
 
+{ .block-language-dataview}
 
 
 
