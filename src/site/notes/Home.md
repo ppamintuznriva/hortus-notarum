@@ -45,21 +45,21 @@ Now, you might have some questions, such as:
 { .block-language-dataview}
 
 ### Recents
-| File                                                                                                                                                                    | Created                  | Updated                 | Size  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- | ----- |
-| [['contextual validity'\|'contextual validity']]                                                                                                                     | 1:35 PM - 2024 July 18   | 11:07 AM - 2024 July 22 | 1527  |
-| [[Atlas/Z Talk MOC\|Z Talk MOC]]                                                                                                                                     | 4:05 PM - 2024 July 01   | 10:35 AM - 2024 July 22 | 449   |
-| [[Cards/🪨 'deconstructive validity'\|🪨 'deconstructive validity']]                                                                                                 | 1:35 PM - 2024 July 18   | 10:25 AM - 2024 July 22 | 1707  |
-| [[Digital Gardening/Digital Garden To Do List\|Digital Garden To Do List]]                                                                                           | 8:27 PM - 2024 July 21   | 11:05 AM - 2024 July 22 | 571   |
-| [[Digital Gardening/What tools do you use?\|What tools do you use?]]                                                                                                 | 9:23 AM - 2024 July 22   | 11:15 AM - 2024 July 22 | 2830  |
-| [[Extras/Templates/DG Publish\|DG Publish]]                                                                                                                          | 7:23 PM - 2024 July 19   | 10:21 AM - 2024 July 22 | 102   |
-| [[Home\|Home]]                                                                                                                                                       | 5:06 PM - 2024 July 19   | 11:29 AM - 2024 July 22 | 2421  |
-| [[Sources/200 Zotero Annotations/📑 @grahamPartIIHeritage2000\|📑 @grahamPartIIHeritage2000]]                                                                        | 8:20 AM - 2024 June 24   | 11:07 AM - 2024 July 22 | 33692 |
-| [[Sources/300 Reading Notes/📖 Brian Graham, G. J. Ashworth, J. E. Tunbridge 2000 (Part II)\|📖 Brian Graham, G. J. Ashworth, J. E. Tunbridge 2000 (Part II)]]       | 11:09 AM - 2024 June 24  | 11:07 AM - 2024 July 22 | 5006  |
-| [[Sources/300 Reading Notes/📖 Johanna Drucker 2021\|📖 Johanna Drucker 2021]]                                                                                       | 10:11 AM - 2024 June 19  | 9:24 AM - 2024 July 22  | 1146  |
-| [[Sources/300 Reading Notes/📖 Paula Saukko 2003\|📖 Paula Saukko 2003]]                                                                                             | 1:37 PM - 2024 July 17   | 11:07 AM - 2024 July 22 | 6346  |
-| [[Sources/400 Kindle Highlights/Ahrens-How to Take Smart Notes_ One Simple Techni - Sonke Ahrens\|Ahrens-How to Take Smart Notes_ One Simple Techni - Sonke Ahrens]] | 11:40 PM - 2024 March 30 | 10:35 AM - 2024 July 22 | 36666 |
-| [[Sources/Podcasts/Laurajane Smith on Weaponized Nostalgia\|Laurajane Smith on Weaponized Nostalgia]]                                                                | 9:22 AM - 2024 July 04   | 11:08 AM - 2024 July 22 | 2754  |
+| File                                                                                                                                                                    | Created                  | Updated                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- |
+| [['contextual validity'\|'contextual validity']]                                                                                                                     | 1:35 PM - 2024 July 18   | 11:07 AM - 2024 July 22 |
+| [[Atlas/Z Talk MOC\|Z Talk MOC]]                                                                                                                                     | 4:05 PM - 2024 July 01   | 10:35 AM - 2024 July 22 |
+| [[Cards/🪨 'deconstructive validity'\|🪨 'deconstructive validity']]                                                                                                 | 1:35 PM - 2024 July 18   | 10:25 AM - 2024 July 22 |
+| [[Digital Gardening/Digital Garden To Do List\|Digital Garden To Do List]]                                                                                           | 8:27 PM - 2024 July 21   | 11:05 AM - 2024 July 22 |
+| [[Digital Gardening/What tools do you use?\|What tools do you use?]]                                                                                                 | 9:23 AM - 2024 July 22   | 11:15 AM - 2024 July 22 |
+| [[Extras/Templates/DG Publish\|DG Publish]]                                                                                                                          | 7:23 PM - 2024 July 19   | 10:21 AM - 2024 July 22 |
+| [[Home\|Home]]                                                                                                                                                       | 5:06 PM - 2024 July 19   | 11:30 AM - 2024 July 22 |
+| [[Sources/200 Zotero Annotations/📑 @grahamPartIIHeritage2000\|📑 @grahamPartIIHeritage2000]]                                                                        | 8:20 AM - 2024 June 24   | 11:07 AM - 2024 July 22 |
+| [[Sources/300 Reading Notes/📖 Brian Graham, G. J. Ashworth, J. E. Tunbridge 2000 (Part II)\|📖 Brian Graham, G. J. Ashworth, J. E. Tunbridge 2000 (Part II)]]       | 11:09 AM - 2024 June 24  | 11:07 AM - 2024 July 22 |
+| [[Sources/300 Reading Notes/📖 Johanna Drucker 2021\|📖 Johanna Drucker 2021]]                                                                                       | 10:11 AM - 2024 June 19  | 9:24 AM - 2024 July 22  |
+| [[Sources/300 Reading Notes/📖 Paula Saukko 2003\|📖 Paula Saukko 2003]]                                                                                             | 1:37 PM - 2024 July 17   | 11:07 AM - 2024 July 22 |
+| [[Sources/400 Kindle Highlights/Ahrens-How to Take Smart Notes_ One Simple Techni - Sonke Ahrens\|Ahrens-How to Take Smart Notes_ One Simple Techni - Sonke Ahrens]] | 11:40 PM - 2024 March 30 | 10:35 AM - 2024 July 22 |
+| [[Sources/Podcasts/Laurajane Smith on Weaponized Nostalgia\|Laurajane Smith on Weaponized Nostalgia]]                                                                | 9:22 AM - 2024 July 04   | 11:08 AM - 2024 July 22 |
 
 { .block-language-dataview}
 
