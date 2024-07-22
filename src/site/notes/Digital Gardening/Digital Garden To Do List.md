@@ -3,7 +3,7 @@
 ---
 
 ### Writing
-- [ ] [[Digital Gardening/What tools do you use?\|What tools do you use?]]
+- [x] [[Digital Gardening/What tools do you use?\|What tools do you use?]]
 - [ ] [[What's a digital garden anyway?\|What's a digital garden anyway?]]
 - [ ] [[Why learn in public?\|Why learn in public?]]
 - [ ] [[How can visitors make their way through this garden?\|How can visitors make their way through this garden?]]
