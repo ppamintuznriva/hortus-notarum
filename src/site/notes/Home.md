@@ -11,7 +11,7 @@ My name is Paula/Z (she/her, they/them), and I am a researcher and editor based 
 
 This space serves as a repository of my living thoughts, things I'm learning, rabbit holes I fall into, etc. Not quite a blog in the usual sense, here you will find initial thoughts, growing ideas, notes on stuff I am reading, maybe some essays here and there, all in the spirit of learning in public. 
 
-Like most digital gardens, I write here mostly for myself, from my personal Obsidian vault (my greenhouse). While it *is* curated, it's not always organized (and that's the beauty of it!). 
+Like most digital gardeners, I write here mostly for myself—rather, my future self—from my personal Obsidian vault (my greenhouse). While it *is* curated, it's not always organized (and that's the beauty of it!). 
 
 #### As you explore:
 1. *Embrace the unrefined*: Some/most ideas here are works in progress. I could be wrong and/or I could be right, and that's ok!
