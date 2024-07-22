@@ -394,7 +394,7 @@ To have an undistracted brain to think with and a reliable collection of notes t
 
 
 ---
- [[Spaces/PKM + Hobbies/04 Support Notes/Tool Box\|Tool Box]] 
+ [[Spaces/PKM + Hobbies/04 Support Notes/🪨 Tool Box\|🪨 Tool Box]] 
  We need four tools: ·       Something to write with and something to write on (pen and paper will do) ·       A reference management system (the best programs are free) ·       The slip-box (the best program is free) ·       An editor (whatever works best for you: very good ones are free) More is unnecessary, less is impossible. — location: [564]()
 { #ref-6150}
 

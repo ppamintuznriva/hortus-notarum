@@ -4,7 +4,7 @@
 
 ### Note-taking, Note-making, and Writing
 
-I follow [[Sources/300 Reading Notes/📖 Sönke Ahrens 2017\|📖 Sönke Ahrens 2017]] [[Spaces/PKM + Hobbies/04 Support Notes/Tool Box\|Tool Box]] for keeping a Zettelkasten, where you basically need only four tools and that "More is unnecessary, less is impossible" (loc. 564).
+I follow [[Sources/300 Reading Notes/📖 Sönke Ahrens 2017\|📖 Sönke Ahrens 2017]] [[Spaces/PKM + Hobbies/04 Support Notes/🪨 Tool Box\|🪨 Tool Box]] for keeping a Zettelkasten, where you basically need only four tools and that "More is unnecessary, less is impossible" (loc. 564).
 
 > [!quote] Something to write with and something to write on (pen and paper will do)
 
