@@ -10,7 +10,7 @@
 
 My name is Paula/Z (she/her, they/them), and I am a researcher and editor based in Baguio City, Philippines. 
 
-This space serves as a repository of my living thoughts, things I'm learning, rabbit holes I fall into, etc. Not quite a blog in the usual sense, here you will find initial thoughts, growing ideas, notes on stuff I am reading, maybe some essays here and there, all in the spirit of learning in public. 
+This space serves as a repository of my living thoughts, things I'm learning, rabbit holes I fall into, etc. Not quite a blog in the usual sense, here you will find initial thoughts, growing ideas, notes on stuff I am reading, maybe some essays here and there, all in the spirit of [learning in public](https://www.swyx.io/learn-in-public). 
 
 Like most digital gardeners, I write here mostly for myself—rather, my future self—from my personal Obsidian vault (my greenhouse). While it *is* curated, it's not always organized (and that's the beauty of it!). 
 
