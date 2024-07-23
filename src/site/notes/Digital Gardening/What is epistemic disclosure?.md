@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-gardening/what-is-epistemic-disclosure/"}
 ---
 
-
+S
 Basically, a declaration of how I know what I know, the level of confidence/belief I have that what I know is true, and how much effort I've put into knowing what I know.
 
 Right now, I have disclosures on [[Digital Gardening/epistemic status\|epistemic status]] and [[Digital Gardening/epistemic effort\|epistemic effort]], but I want to [[Digital Gardening/Digital Garden To Do List#Housekeeping\|fix how the callouts look]] a little bit .
