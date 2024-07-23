@@ -14,15 +14,15 @@ I follow [[Sources/300 Reading Notes/📖 Sönke Ahrens 2017\|📖 Sönke Ahrens
 
 regular- and passport-sized Travel Notebooks (TNs) - I usually only carry the passport-sized TN in my small EDC (everyday carry)
 
-> [!quote] ==A reference management system (the best programs are free) ==
+> [!quote] ==A reference management system (the best programs are free)==
 
 [Zotero](https://www.zotero.org/) - completely free (unless you manage, like me, to go over the free storage allotment. It's a fair deal, though, and I like being able to access all my PDFs from anywhere and any device). I could rave about Zotero ALL DAY and if you give me a chance, I will.
 
-> [!quote]  ==The slip-box (the best program is free) ==
+> [!quote]  ==The slip-box (the best program is free)==
 
 [Obsidian](https://obsidian.md/) again - Great for making bi-directional links, and easy enough to learn (I have close to zero computer science background and I learned it fine. Like most things, patience and enthusiasm will get you through). Wonderful and generous folks in the community who build plugins, answer questions, make tutorials, etc. 
 
-> [!quote] ==An editor (whatever works best for you: very good ones are free) ==
+> [!quote] ==An editor (whatever works best for you: very good ones are free)==
 
 [Obsidian](https://obsidian.md/) AGAIN - but with the help of plugins like [Pandoc](https://obsidian.md/plugins?id=obsidian-pandoc) and Enhancing [Export](https://obsidian.md/plugins?id=obsidian-enhancing-export). I like using Google Docs sometimes, too, which can be integrated with Zotero as well.
 
