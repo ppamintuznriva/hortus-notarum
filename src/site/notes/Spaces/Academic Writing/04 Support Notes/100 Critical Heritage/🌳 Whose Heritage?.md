@@ -3,10 +3,10 @@
 ---
 
 
->[!info] [[epistemic status\|epistemic status]]: 
+>[!info] [[Digital Gardening/epistemic status\|epistemic status]]: 
 > certain. fairly sure that "whose heritage" is privileged in the heritage discourse matters a whole lot in the general scheme of things
 
->[!info] [[epistemic effort\|epistemic effort]]:
+>[!info] [[Digital Gardening/epistemic effort\|epistemic effort]]:
 >medium to high. i've been mulling over this idea ever since i read Laurajane Smith's work on AHD, because I honestly thought of heritage as something universal when there is so much that goes into it. Then, it appeared over and over in literature and became a central concern.
 
 Common question among the scholars/works:

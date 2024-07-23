@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/spaces/academic-writing/04-support-notes/100-critical-heritage/museums-and-heritage-spaces-as-sites-of-emotional-work/"}
 ---
 
->[!info] [[epistemic status\|epistemic status]]:
+>[!info] [[Digital Gardening/epistemic status\|epistemic status]]:
 >semi-believed (there has to be a better word for this). I think it's right, but needs to be more fleshed-out and complete.
 
->[!info] [[epistemic effort\|epistemic effort]]:
+>[!info] [[Digital Gardening/epistemic effort\|epistemic effort]]:
 >low, have not looked into this deeper but i should
 
 though they are spaces of power, museums and heritage sites could provide people a space to work through their feelings and thoughts toward heritage
