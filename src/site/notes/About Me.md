@@ -30,6 +30,7 @@ I have been involved in a variety of advocacies, including maternal health, baby
 ## Publications
 **2017.** "Writing Red Letters: A Student’s Tribute to Sir Del,” in _Hoy, Boy! A Festschrift for Delfin Tolentino, Jr._, edited by B. Tapang and G. Subido. Baguio City: Cordillera Studies Center.
 **2013.** [“The Indigenous in the Cordillera Studies Center of UP Baguio.”](https://drive.google.com/file/d/1FF2mLJZV4VzSCl3ZmFjBUKxn3MQBjqMg/view?usp=sharing) Co-authored with R. Rovillos. In *Unsettling Discourses: The Theory and Practice of Indigenous Studies.* Baguio City: Cordillera Studies Center.
+**2008.** "[Floating & falling in the Youki Singe Tea Room.](https://www.philstar.com/lifestyle/sunday-life/2008/05/11/61448/floating-amp-falling-youki-singe-tea-room)" Published in *The Philippine Star*, 11 May 2008, and awarded Honorable Mention in the [My Favorite Book Awards 2008](https://www.philstar.com/lifestyle/sunday-life/2009/03/15/448205/poetry-reading-laughter-my-favorite-book-awards-2008). 
 ## Other Editing Work
 **2016.** [Not Your World Music: Noise in South East Asia](https://www.academia.edu/28481619/NOT_YOUR_WORLD_MUSIC_Noise_in_South_East_Asia_front_matters_?auto=download). C. Fermont and D. della Faille. Berlin: Syrphe. Ottawa: [Hushush](http://words.hushush.com/).   
 **2013.** _Unsettling Discourses: The Theory and Practice of Indigenous Studies._ Baguio City: Cordillera Studies Center.
@@ -57,4 +58,4 @@ I have been involved in a variety of advocacies, including maternal health, baby
 **2024.** Full Individual Member, [Association of Critical Heritage Studies (ACHS)](https://www.criticalheritagestudies.org/membership-directory#!biz/id/6509b0463ac000fa390d9a75)
 
 ---
-Profile photo from by Blaze Sy of Hijo de Foto Studios, Baguio City.
+Profile photo by Blaze Sy of Hijo de Foto Studios, Baguio City.
