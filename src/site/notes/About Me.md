@@ -25,7 +25,7 @@ I have been involved in a variety of advocacies, including maternal health, baby
 - Angeles City National High School (Special Science Class), now Angeles City National Science High School
 - Dau Central Elementary School (Special Education - Fast Learner Program)
 ## Recognition
-**2023.** Gawad Tsanselor para sa Natatanging Research, Extension at Professional Staff (REPS)/Chancellor's Award for Outstanding Research, Extension and Professional Staff (REPS). University of the Philippines Baguio.
+**2023.** Gawad Tsanselor para sa Natatanging Research, Extension at Professional Staff (REPS)/Chancellor's Award for Outstanding Research, Extension and Professional Staff (REPS). University of the Philippines Baguio. [(*Speech.*)](https://drive.google.com/file/d/1BExGeuMlsxCRV9TdPOdcTukF65sixTBF/view?usp=sharing) 
 **2010.** Outstanding Thesis Awardee (Undergraduate). College of Arts and Communication, University of the Philippines Baguio.
 ## Publications
 **2017.** "Writing Red Letters: A Student’s Tribute to Sir Del,” in _Hoy, Boy! A Festschrift for Delfin Tolentino, Jr._, edited by B. Tapang and G. Subido. Baguio City: Cordillera Studies Center.
@@ -57,4 +57,4 @@ I have been involved in a variety of advocacies, including maternal health, baby
 **2024.** Full Individual Member, [Association of Critical Heritage Studies (ACHS)](https://www.criticalheritagestudies.org/membership-directory#!biz/id/6509b0463ac000fa390d9a75)
 
 ---
-Profile photo from [makowka](https://picrew.me/en/image_maker/644129) on Picrew
+Profile photo from by Blaze Sy of Hijo de Foto Studios, Baguio City.
