@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true}
 ---
 
-![IMG_7330.png|200](/img/user/Extras/Images/IMG_7330.png)
+![riva pfp.png|300](/img/user/riva%20pfp.png)
 ## Paula Pamintuan-Riva 
 
 My name is Paula (she/her, they/them) and I am an academic researcher from Baguio City, Philippines. I have worked at the [Cordillera Studies Center](https://csc3.upb.edu.ph/) of the [University of the Philippines Baguio](https://www.upb.edu.ph/) since 2012, and my focus area is in academic publishing. I like to dabble in a variety of things, but it feels like my gravitational center always lies in editing and publications. 
@@ -17,7 +17,7 @@ I have been involved in a variety of advocacies, including maternal health, baby
 
 ## Career Experience
 - University Researcher I, University of the Philippines Baguio Cordillera Studies Center (2012-present)
-- Editorial Assistant, *The Cordillera Review: Journal of Philippine Culture and Society* (concurrent with UR role)
+- Editorial Assistant, [*The Cordillera Review: Journal of Philippine Culture and Society*](https://thecordillerareview.upb.edu.ph/) (concurrent with UR role)
 - Teacher/Faculty Member in English and Art History in secondary to undergraduate level classes (2011-2012)
 - Podcast Writer, Editor and Co-Host, [CSC@40: CSC Fieldnotes Podcast](https://open.spotify.com/show/2oDR93FhlZ8qDrXzx5qXHt)(2020–2023)
 ## Education/Qualifications
