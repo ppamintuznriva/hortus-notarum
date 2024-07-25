@@ -20,7 +20,7 @@ regular- and passport-sized Travel Notebooks (TNs) - I usually only carry the pa
 
 > [!quote]  ==The slip-box (the best program is free)==
 
-[Obsidian](https://obsidian.md/) again - Great for making bi-directional links, and easy enough to learn (I have close to zero computer science background and I learned it fine. Like most things, patience and enthusiasm will get you through). Wonderful and generous folks in the community who build plugins, answer questions, make tutorials, etc. 
+[Obsidian](https://obsidian.md/) again - Great for making bi-directional links, and easy enough to learn (I have close to zero computer science background and I learned it fine. Like most things, patience and enthusiasm will get you through). The community is filled with wonderful, clever, and generous folks in the community who build plugins, answer questions, make tutorials, etc. 
 
 > [!quote] ==An editor (whatever works best for you: very good ones are free)==
 
