@@ -51,7 +51,7 @@ I have been involved in a variety of advocacies, including maternal health, baby
 **2013.** “An Other Othered by Other Others: Manila Luzon and the Irreverence of Drag." Inter-Asia Cultural Studies Graduate Conference. National University of Singapore. 1–2 July 2013.
 ## Workshop Fellowships
 **2020.** "Tighten the Knot of Our Blanket Slings: A Semiotic Reading of Ubba and the Colonial Representation of Childrearing." 3rd Cordillera Studies Writeshop. Baguio City. 11-13 March 2020.  
-**2014.** “Happiness is not Always Fun: Social Commentary and Melodrama in Fassbinder’s Ali, or Fear Eats the Soul,” J. Elizalde Navarro National Workshop in Criticism on the Arts and Humanities, Baguio City, 25-31 May 2014.
+**2014.** “Happiness is not Always Fun: Social Commentary and Melodrama in Fassbinder’s *Ali, or Fear Eats the Soul*,” J. Elizalde Navarro National Workshop in Criticism on the Arts and Humanities, Baguio City, 25-31 May 2014.
  
 ## Academic Membership
 **2024.** Full Individual Member, [Association of Critical Heritage Studies (ACHS)](https://www.criticalheritagestudies.org/membership-directory#!biz/id/6509b0463ac000fa390d9a75)
