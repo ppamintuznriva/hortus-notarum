@@ -11,7 +11,7 @@
 - [ ] [[What do these 🫚,🫛,🌱,🪴,🌳 mean?\|What do these 🫚,🫛,🌱,🪴,🌳 mean?]]
 - [ ] [[How can visitors give feedback and how will you respond?\|How can visitors give feedback and how will you respond?]]
 - [ ] Tag Taxonomy
-- [ ] [[Now\|Now]]
+- [x] [[Now\|Now]]
 
 ### Housekeeping
 - [ ] publish some Reading Notes
