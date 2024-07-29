@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/heritage-is-political/"}
+{"dg-publish":true,"permalink":"/cards/heritage-is-political/","created":"2024-06-17T14:54:07.891+08:00","updated":"2024-07-23T10:11:03.413+08:00"}
 ---
 
 

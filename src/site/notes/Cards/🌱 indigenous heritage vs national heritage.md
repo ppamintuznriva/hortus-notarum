@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/indigenous-heritage-vs-national-heritage/"}
+{"dg-publish":true,"permalink":"/cards/indigenous-heritage-vs-national-heritage/","created":"2024-07-04T10:02:56.679+08:00","updated":"2024-07-23T10:41:59.987+08:00"}
 ---
 
 Tension inherent in the determination of "heritage" following guidelines set by international, national or even academic bodies.

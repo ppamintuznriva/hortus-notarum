@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/what-tools-do-you-use/"}
+{"dg-publish":true,"permalink":"/digital-gardening/what-tools-do-you-use/","created":"2024-07-22T09:23:43.933+08:00","updated":"2024-07-25T14:52:35.397+08:00"}
 ---
 
 ### Note-taking, Note-making, and Writing

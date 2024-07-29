@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/deconstructive-validity/"}
+{"dg-publish":true,"permalink":"/cards/deconstructive-validity/","created":"2024-07-18T13:35:46.099+08:00","updated":"2024-07-22T10:25:20.197+08:00"}
 ---
 
 

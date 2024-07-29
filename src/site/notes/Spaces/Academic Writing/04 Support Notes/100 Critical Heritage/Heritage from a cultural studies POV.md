@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/academic-writing/04-support-notes/100-critical-heritage/heritage-from-a-cultural-studies-pov/"}
+{"dg-publish":true,"permalink":"/spaces/academic-writing/04-support-notes/100-critical-heritage/heritage-from-a-cultural-studies-pov/","created":"2023-09-06T11:06:38.931+08:00","updated":"2024-07-22T14:45:57.943+08:00"}
 ---
 
 [[Spaces/Academic Writing/04 Support Notes/100 Critical Heritage/1Q What is a post-nation?\|1Q What is a post-nation?]]

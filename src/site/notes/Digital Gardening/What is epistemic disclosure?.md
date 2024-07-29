@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/what-is-epistemic-disclosure/"}
+{"dg-publish":true,"permalink":"/digital-gardening/what-is-epistemic-disclosure/","created":"2024-07-23T10:50:35.543+08:00","updated":"2024-07-23T11:22:35.421+08:00"}
 ---
 
 

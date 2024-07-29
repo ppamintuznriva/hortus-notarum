@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.959+08:00","updated":"2024-07-25T16:06:39.206+08:00"}
 ---
 
 ![riva pfp.png|300](/img/user/riva%20pfp.png)

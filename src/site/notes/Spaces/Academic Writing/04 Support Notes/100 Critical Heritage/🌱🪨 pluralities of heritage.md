@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/academic-writing/04-support-notes/100-critical-heritage/pluralities-of-heritage/"}
+{"dg-publish":true,"permalink":"/spaces/academic-writing/04-support-notes/100-critical-heritage/pluralities-of-heritage/","created":"2024-06-25T09:43:20.879+08:00","updated":"2024-07-22T14:52:10.475+08:00"}
 ---
 
 >[!info] [[Digital Gardening/epistemic status\|epistemic status]]:

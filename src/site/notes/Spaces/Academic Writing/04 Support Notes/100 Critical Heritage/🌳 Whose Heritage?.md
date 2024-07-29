@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/academic-writing/04-support-notes/100-critical-heritage/whose-heritage/"}
+{"dg-publish":true,"permalink":"/spaces/academic-writing/04-support-notes/100-critical-heritage/whose-heritage/","created":"2023-09-06T11:33:52.379+08:00","updated":"2024-07-22T14:44:07.236+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/300-reading-notes/paula-saukko-2003/","title":"Doing Research in Cultural Studies","tags":["🤓","🔥"]}
+{"dg-publish":true,"permalink":"/sources/300-reading-notes/paula-saukko-2003/","title":"Doing Research in Cultural Studies","tags":["🤓","🔥"],"created":"2024-07-17T13:37:04.325+08:00","updated":"2024-07-22T11:07:08.643+08:00"}
 ---
 
 ![cover|150](http://books.google.com/books/content?id=3g3PG75i0aAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)

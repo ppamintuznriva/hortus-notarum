@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/academic-writing/04-support-notes/100-critical-heritage/heritage-s-function-as-commodity-or-resource/"}
+{"dg-publish":true,"permalink":"/spaces/academic-writing/04-support-notes/100-critical-heritage/heritage-s-function-as-commodity-or-resource/","created":"2024-06-18T13:47:21.319+08:00","updated":"2024-07-22T15:01:45.915+08:00"}
 ---
 
 

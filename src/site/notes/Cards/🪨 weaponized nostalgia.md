@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/weaponized-nostalgia/"}
+{"dg-publish":true,"permalink":"/cards/weaponized-nostalgia/","created":"2024-07-04T09:30:00.601+08:00","updated":"2024-07-23T10:10:23.816+08:00"}
 ---
 
 "a return to some romanticized past"

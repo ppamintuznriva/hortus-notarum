@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/what-i-read-in-2024/"}
+{"dg-publish":true,"permalink":"/atlas/what-i-read-in-2024/","created":"2024-07-28T10:26:46.813+08:00","updated":"2024-07-28T14:45:04.178+08:00"}
 ---
 
 | File                                                                                                                                                                    | Cover                                                                                                                         | Title                                                                                                                            | Yr   |
