@@ -15,6 +15,6 @@
 
 ### Housekeeping
 - [ ] publish some Reading Notes
-- [ ] create Google Form for feedback
+- [x] create Google Form for feedback
 - [ ] figure out the timestamp settings
 - [ ] fix how callouts look for [[Digital Gardening/epistemic effort\|epistemic effort]] and [[Digital Gardening/epistemic status\|epistemic status]]
