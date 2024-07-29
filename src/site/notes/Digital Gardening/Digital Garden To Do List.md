@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/digital-garden-to-do-list/","created":"2024-07-21T20:27:34.920+08:00","updated":"2024-07-29T11:38:18.476+08:00"}
+{"dg-publish":true,"permalink":"/digital-gardening/digital-garden-to-do-list/","created":"2024-07-21T20:27:34.920+08:00","updated":"2024-07-29T11:39:47.164+08:00"}
 ---
 
 ### Writing
@@ -16,5 +16,5 @@
 ### Housekeeping
 - [ ] publish some Reading Notes
 - [x] create Google Form for feedback
-- [ ] figure out the timestamp settings
+- [x] figure out the timestamp settings
 - [ ] fix how callouts look for [[Digital Gardening/epistemic effort\|epistemic effort]] and [[Digital Gardening/epistemic status\|epistemic status]]

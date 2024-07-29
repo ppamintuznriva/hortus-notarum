@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.689+08:00","updated":"2024-07-29T10:20:38.506+08:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.689+08:00","updated":"2024-07-29T11:40:47.294+08:00"}
 ---
 
 
@@ -17,7 +17,7 @@ Like most digital gardeners, I write here mostly for myself—rather, my future 
 #### As you explore:
 1. *Embrace the unrefined*: Some/most ideas here are works in progress. I could be wrong and/or I could be right, and that's ok!
 3. *Feel free to wander*: These thoughts are not strictly organized, feel free to jump between links and see where they take you. (You'll notice that some links are still beiged [?] out, that's because I haven't finished deploying everything from my greenhouse as I am actually currently busy writing)
-4. *Check timestamps*: Note when a piece was last tended to. (That is, if I can figure out how to make them work)
+4. *Check timestamps*: Note when a piece was last tended to.
 5. *Engage thoughtfully*: Comments and discussions are welcome, you can find me on X/Twitter at [@mapalupari](https://x.com/mapalupari). The anonymous [[Digital Gardening/Feedback Form\|Feedback Form]] is up now!
 6. *Be a responsible visitor:* Not sure where you stand in the digital garden? Check the [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos) by Shawn Wang.
 
