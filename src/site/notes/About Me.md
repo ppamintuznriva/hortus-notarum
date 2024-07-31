@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.959+08:00","updated":"2024-07-29T11:48:17.243+08:00"}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.959+08:00","updated":"2024-07-31T11:46:56.561+08:00"}
 ---
 
 ![riva pfp.png|300](/img/user/riva%20pfp.png)
@@ -17,6 +17,7 @@ I have been involved in a variety of advocacies, including maternal health, baby
 
 I am married and a parent. 🌱
 
+✉️ mmpamintuanriva@up.edu.ph
 ## Career Experience
 - University Researcher I, University of the Philippines Baguio Cordillera Studies Center (2012-present)
 - Editorial Assistant, [*The Cordillera Review: Journal of Philippine Culture and Society*](https://thecordillerareview.upb.edu.ph/) (concurrent with UR role)
