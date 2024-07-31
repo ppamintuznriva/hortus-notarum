@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/what-is-epistemic-disclosure/","created":"2024-07-23T10:50:35.543+08:00","updated":"2024-07-31T22:21:02.651+08:00"}
+{"dg-publish":true,"permalink":"/digital-gardening/what-is-epistemic-disclosure/","created":"2024-07-23T10:50:35.543+08:00","updated":"2024-07-31T22:24:56.772+08:00"}
 ---
 
 
@@ -23,9 +23,9 @@ Right now I'm trying custom callouts using the [Callout Manager Plugin](https://
 
 > [!epistemic-effort]
 
-Somehow these are not showing up on my digital garden the way that I want it to. 😩 I think the brackets would look better and less obstrusive.
+Somehow these are not showing up on my digital garden the way that I want it to. 😩 I think the brackets would look better and less obtrusive. I wish I could make it look like how it looks for me. 
 
-
+![Screenshot 2024-07-31 at 10.23.43 PM.png](/img/user/Screenshot%202024-07-31%20at%2010.23.43%20PM.png)
 Selected readings:
 [Epistemic Disclosure](https://maggieappleton.com/epistemic-disclosure) by Maggie Appleton
 [Confidence Tags](https://www.gwern.net/) by Gwern
