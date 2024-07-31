@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/what-is-epistemic-disclosure/","created":"2024-07-23T10:50:35.543+08:00","updated":"2024-07-31T21:32:13.537+08:00"}
+{"dg-publish":true,"permalink":"/digital-gardening/what-is-epistemic-disclosure/","created":"2024-07-23T10:50:35.543+08:00","updated":"2024-07-31T22:21:02.651+08:00"}
 ---
 
 
@@ -14,7 +14,8 @@ Right now, looks like this
 
 What if:
 
-[ *[[Digital Gardening/epistemic status\|epistemic status]]: semi-believed. i think this is right, but this needs more engagement to understand and utilize* ]
+<font size=3> [ **epistemic status**: *semi-believed. i think this is right, but this needs more engagement to understand and utilize* ]</font>
+
 
 Right now I'm trying custom callouts using the [Callout Manager Plugin](https://github.com/eth-p/obsidian-callout-manager):
 
@@ -22,6 +23,7 @@ Right now I'm trying custom callouts using the [Callout Manager Plugin](https://
 
 > [!epistemic-effort]
 
+Somehow these are not showing up on my digital garden the way that I want it to. 😩 I think the brackets would look better and less obstrusive.
 
 
 Selected readings:
