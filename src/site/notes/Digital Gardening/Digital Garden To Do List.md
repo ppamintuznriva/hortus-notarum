@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/digital-garden-to-do-list/","created":"2024-07-21T20:27:34.920+08:00","updated":"2024-07-29T11:39:47.164+08:00"}
+{"dg-publish":true,"permalink":"/digital-gardening/digital-garden-to-do-list/","created":"2024-07-21T20:27:34.920+08:00","updated":"2024-07-31T21:35:03.419+08:00"}
 ---
 
 ### Writing
@@ -9,7 +9,7 @@
 - [ ] [[How can visitors make their way through this garden?\|How can visitors make their way through this garden?]]
 - [x] [[Digital Gardening/What is epistemic disclosure?\|What is epistemic disclosure?]]
 - [ ] [[What do these 🫚,🫛,🌱,🪴,🌳 mean?\|What do these 🫚,🫛,🌱,🪴,🌳 mean?]]
-- [ ] [[Digital Gardening/How can visitors give feedback and how will you respond?\|How can visitors give feedback and how will you respond?]]
+- [x] [[Digital Gardening/How can visitors give feedback and how will you respond?\|How can visitors give feedback and how will you respond?]]
 - [ ] Tag Taxonomy
 - [x] [[Now\|Now]]
 

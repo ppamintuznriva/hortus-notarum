@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/childhood-studies/contradictions-of-colonial-description/","created":"2024-04-30T13:56:45.209+08:00","updated":"2024-07-31T21:31:54.470+08:00"}
+{"dg-publish":true,"permalink":"/cards/childhood-studies/contradictions-of-colonial-description/","created":"2024-04-30T13:56:45.209+08:00","updated":"2024-07-31T21:33:39.663+08:00"}
 ---
 
->[!info] [[Digital Gardening/epistemic status\|epistemic status]]: I strongly adhere to this idea, because of the Philippines' past, and I think I will see this idea recur in my future work
-[[Digital Gardening/epistemic effort\|epistemic effort]]: medium, I've written about this at some length
 
 > [!epistemic-status] 
 > I strongly adhere to this idea, because of the Philippines' past, and I think I will see this idea recur in my future work
+
+> [!epistemic-effort] 
+> medium, I've written about this at some length
 
 
 
