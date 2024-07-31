@@ -3,4 +3,4 @@
 ---
 
 
-You can reach me via email at mmpamintuanriva@up.edu.ph. I have an anonymous [[Digital Gardening/Feedback Form\|Feedback Form]] that you can use, and I will probably respond through notes, too.
+You can reach me via email at mmpamintuanriva@up.edu.ph. I have an anonymous [[Feedback Form\|Feedback Form]] that you can use, and I will probably respond through notes, too.
