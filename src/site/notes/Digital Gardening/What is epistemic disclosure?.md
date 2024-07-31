@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/what-is-epistemic-disclosure/","created":"2024-07-23T10:50:35.543+08:00","updated":"2024-07-31T18:39:30.002+08:00"}
+{"dg-publish":true,"permalink":"/digital-gardening/what-is-epistemic-disclosure/","created":"2024-07-23T10:50:35.543+08:00","updated":"2024-07-31T21:32:13.537+08:00"}
 ---
 
 
@@ -18,9 +18,9 @@ What if:
 
 Right now I'm trying custom callouts using the [Callout Manager Plugin](https://github.com/eth-p/obsidian-callout-manager):
 
-> [!epistemic status] 
+> [!epistemic-status] 
 
-> [!epistemic effort]
+> [!epistemic-effort]
 
 
 
