@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/what-is-epistemic-disclosure/","created":"2024-07-23T10:50:35.543+08:00","updated":"2024-07-23T11:22:35.421+08:00"}
+{"dg-publish":true,"permalink":"/digital-gardening/what-is-epistemic-disclosure/","created":"2024-07-23T10:50:35.543+08:00","updated":"2024-07-31T18:39:30.002+08:00"}
 ---
 
 
@@ -15,6 +15,14 @@ Right now, looks like this
 What if:
 
 [ *[[Digital Gardening/epistemic status\|epistemic status]]: semi-believed. i think this is right, but this needs more engagement to understand and utilize* ]
+
+Right now I'm trying custom callouts using the [Callout Manager Plugin](https://github.com/eth-p/obsidian-callout-manager):
+
+> [!epistemic status] 
+
+> [!epistemic effort]
+
+
 
 Selected readings:
 [Epistemic Disclosure](https://maggieappleton.com/epistemic-disclosure) by Maggie Appleton
