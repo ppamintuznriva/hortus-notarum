@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/what-i-read-in-2024/","contentClasses":"cards","created":"2024-07-28T10:26:46.813+08:00","updated":"2024-07-31T21:26:30.213+08:00"}
+{"dg-publish":true,"permalink":"/atlas/what-i-read-in-2024/","contentClasses":"cards","created":"2024-07-28T10:26:46.813+08:00","updated":"2024-07-31T21:28:47.081+08:00"}
 ---
 
 
