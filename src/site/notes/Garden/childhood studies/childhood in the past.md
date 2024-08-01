@@ -4,5 +4,5 @@
 
 
 
-[[Garden/heritage as a living activity – not only the conservation of the past\|heritage as a living activity – not only the conservation of the past]]
+[[Garden/critical heritage/heritage as a living activity – not only the conservation of the past\|heritage as a living activity – not only the conservation of the past]]
 [[babywearing as a practice that straddles past, present and future\|babywearing as a practice that straddles past, present and future]]
