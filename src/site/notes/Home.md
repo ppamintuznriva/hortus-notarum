@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","contentClasses":"cards","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.689+08:00","updated":"2024-08-01T08:17:53.875+08:00"}
+{"dg-publish":true,"permalink":"/home/","contentClasses":"cards","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.689+08:00","updated":"2024-08-01T15:37:25.734+08:00"}
 ---
 
 
@@ -34,10 +34,12 @@ Now, you might have some questions, such as:
 [[Digital Gardening/How can visitors give feedback and how will you respond?\|How can visitors give feedback and how will you respond?]]
 But, like, what are you up to [[Now\|now]]?
 
-
 *Happy visiting!*
 
-#### More [[About Me\|About Me]]
+(pfp by [macowka](https://picrew.me/en/image_maker/644129) on picrew)
+
+---
+
 #### [[Atlas/📋 Currently Reading\|📋 Currently Reading]]
 | File                                                                                                                                                        | Cover                                                                                                                         | Title                                                                                              | Yr   | Modified                | Added                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---- | ----------------------- | ----------------------- |
@@ -67,6 +69,16 @@ But, like, what are you up to [[Now\|now]]?
 
 { .block-language-dataview}
 
+#### [[Atlas/📋🎧 What I Listened To in 2024\|📋🎧 What I Listened To in 2024]]
+| File                                                                                                                                 | Cover                                                                                                                         | Title                                                                                           | Yr   | URL                                                                                                                | Listened                 |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| [[Sources/Podcasts/📖🫛 Sony Coráñez Bolton - Crip Colony\|📖🫛 Sony Coráñez Bolton - Crip Colony]]                               | ![cover\|80](http://books.google.com/books/content?id=umioEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Crip Colony: Mestizaje, US Imperialism, and the Queer Politics of Disability in the Philippines | 2023 | https://open.spotify.com/episode/6JmJxUbN86Ud6Istey90Rd?si=349258fda6f4445a                                        | 3:39 PM - 2024 August 01 |
+| [[Sources/Podcasts/📖🫛 Chris Haufe - Do the Humanities Create Knowledge\|📖🫛 Chris Haufe - Do the Humanities Create Knowledge]] | ![cover\|80](http://books.google.com/books/content?id=n8jlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Do the Humanities Create Knowledge?                                                             | 2023 | https://open.spotify.com/episode/5DW7SAGmzsFhpWoSb7TUgh?si=maYScPRoSy6Gm1cPlyQHcg                                  | 3:23 PM - 2024 August 01 |
+| [[Sources/Podcasts/📖🫛 Laurajane Smith on Weaponized Nostalgia\|📖🫛 Laurajane Smith on Weaponized Nostalgia]]                   | ![cover\|80](\-)                                                                                                              | Laurajane Smith on Weaponized Nostalgia                                                         | 2020 | https://soundcloud.com/columbiagsapp/laurajane-smith-interview-final?in=columbiagsapp/sets/historic-preservation-1 | 9:22 AM - 2024 July 04   |
+| [[Sources/Podcasts/📖🫛 Philipp Demgenski 2024\|📖🫛 Philipp Demgenski 2024]]                                                     | ![cover\|80](http://books.google.com/books/content?id=KA_tEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Seeking a future for the past: Space, power, and heritage in a Chinese city                     | 2024 | https://open.spotify.com/episode/6CDFoU0RASYCvDu6gE0qaG?si=lUPkBDMvRbOvCvq6OwuDRA                                  | 10:42 AM - 2024 June 24  |
+| [[Sources/Podcasts/📖🫛 Natalia Grincheva, Elizabeth Stainforth 2024\|📖🫛 Natalia Grincheva, Elizabeth Stainforth 2024]]         | ![cover\|80](http://books.google.com/books/content?id=Xf9G0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | Geopolitics of digital heritage                                                                 | 2024 | https://open.spotify.com/episode/09mM9MLYhqxk0IM41jkJ0P?si=A03RnWs6QfiKPKj2mJYRqg                                  | 10:41 AM - 2024 June 24  |
+| [[Sources/Podcasts/📖🫛Yujie Zhu, Christina Maags 2021\|📖🫛Yujie Zhu, Christina Maags 2021]]                                     | ![cover\|80](http://books.google.com/books/content?id=aZ_HDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Heritage politics in China: The power of the past                                               | 2021 | https://open.spotify.com/episode/67D7aB9oKlOFto2FtFnGkJ?si=X1YLHkcFS62FjVSaUcOulQ                                  | 10:39 AM - 2024 June 24  |
 
+{ .block-language-dataview}
 
 

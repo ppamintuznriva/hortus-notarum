@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/academic-writing/04-support-notes/100-critical-heritage/museums-and-heritage-spaces-as-sites-of-emotional-work/","created":"2024-06-17T21:31:04.421+08:00","updated":"2024-07-22T14:50:13.022+08:00"}
+{"dg-publish":true,"permalink":"/spaces/academic-writing/04-support-notes/100-critical-heritage/museums-and-heritage-spaces-as-sites-of-emotional-work/","created":"2024-06-17T21:31:04.421+08:00","updated":"2024-08-01T11:16:02.050+08:00"}
 ---
 
 >[!info] [[Digital Gardening/epistemic status\|epistemic status]]:
@@ -10,5 +10,5 @@
 
 though they are spaces of power, museums and heritage sites could provide people a space to work through their feelings and thoughts toward heritage
 
-heritage managers and workers need to be aware of the impact and role of people's emotions and provide the space and support for people to deal with those negative emotions stirred by heritage sites (from [[Sources/Podcasts/Laurajane Smith on Weaponized Nostalgia\|Laurajane Smith on Weaponized Nostalgia]])
+heritage managers and workers need to be aware of the impact and role of people's emotions and provide the space and support for people to deal with those negative emotions stirred by heritage sites (from [[Sources/Podcasts/📖🫛 Laurajane Smith on Weaponized Nostalgia\|📖🫛 Laurajane Smith on Weaponized Nostalgia]])
 
