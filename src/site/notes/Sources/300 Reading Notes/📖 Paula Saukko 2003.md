@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/300-reading-notes/paula-saukko-2003/","title":"Doing Research in Cultural Studies","tags":["🤓","🔥"],"created":"2024-07-17T13:37:04.325+08:00","updated":"2024-08-01T23:28:10.170+08:00"}
+{"dg-publish":true,"permalink":"/sources/300-reading-notes/paula-saukko-2003/","title":"Doing Research in Cultural Studies","tags":["🤓","🔥"],"created":"2024-07-17T13:37:04.325+08:00","updated":"2024-08-01T23:31:03.422+08:00"}
 ---
 
 ![cover|150](http://books.google.com/books/content?id=3g3PG75i0aAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
@@ -75,14 +75,3 @@ Cultural studies provides latitude for a variety of methodologies in the interes
 -  [[triangulation\|triangulation]] - using and combining different materials and methods to see if they corroborate each other,
 	- related to a [[positivist perspective\|positivist perspective]] - reality stands still and research is outside of it, looking in, trying to get as close to reality as possible. However, [[research is a social activity\|research is a social activity]]
 - [[crystallization (mixing methodologies)\|crystallization (mixing methodologies)]] (Richardson 2000)
-- 
-
-
-
-
-
-## Related Zotero Annotations
-
-
-## Reference Note
-
