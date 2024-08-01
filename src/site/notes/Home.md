@@ -27,11 +27,11 @@ Now, you might have some questions, such as:
 [[What's a digital garden anyway?\|What's a digital garden anyway?]]
 [[Why learn in public?\|Why learn in public?]]
 [[How can visitors make their way through this garden?\|How can visitors make their way through this garden?]]
-[[Digital Gardening/What tools do you use?\|What tools do you use?]]
+[[Gardening/What tools do you use?\|What tools do you use?]]
 [[WTWF? (What's the workflow?)\|WTWF? (What's the workflow?)]]
-[[Digital Gardening/What is epistemic disclosure?\|What is epistemic disclosure?]]
+[[Gardening/What is epistemic disclosure?\|What is epistemic disclosure?]]
 [[What do these 🫚,🫛,🌱,🪴,🌳 mean?\|What do these 🫚,🫛,🌱,🪴,🌳 mean?]]
-[[Digital Gardening/How can visitors give feedback and how will you respond?\|How can visitors give feedback and how will you respond?]]
+[[Gardening/How can visitors give feedback and how will you respond?\|How can visitors give feedback and how will you respond?]]
 But, like, what are you up to [[Now\|now]]?
 
 *Happy visiting!*

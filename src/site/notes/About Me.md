@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.959+08:00","updated":"2024-07-31T11:46:56.561+08:00"}
 ---
 
-![riva pfp.png|300](/img/user/riva%20pfp.png)
+![riva pfp.png|300](/img/user/Extras/Images/riva%20pfp.png)
 ## Paula Pamintuan-Riva 
 
 My name is Paula (she/her, they/them) and I am an academic researcher from Baguio City, Philippines. I have worked at the [Cordillera Studies Center](https://csc3.upb.edu.ph/) of the [University of the Philippines Baguio](https://www.upb.edu.ph/) since 2012, and my focus area is in academic publishing. I like to dabble in a variety of things, but it feels like my gravitational center always lies in editing and publications. 

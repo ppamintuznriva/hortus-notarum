@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/garden/pluralities-of-heritage/","created":"2024-06-25T09:43:20.879+08:00","updated":"2024-07-22T14:52:10.475+08:00"}
+---
+
+>[!info] [[Gardening/epistemic status\|epistemic status]]:
+>semi-believed. i think this is right, but this needs more engagement to understand and utilize
+
+>[!info] [[Gardening/epistemic effort\|epistemic effort]]:
+>low-medium. i see how this connects to my local context, and will probably put more effort in the analysis.
+
+Not only is there a [["plurality of use and consumption of heritage"\|"plurality of use and consumption of heritage"]] [@grahamGeographyHeritagePower2000, 5], there is a plurarity of heritage itself especially in heterogenous urban spaces like Baguio City. This plurality and heterogeneity will seem counterintutitive in from the perspective of traditional, nationalist discourses on heritage that favor a cohesive narrative for heritage preservation. 
