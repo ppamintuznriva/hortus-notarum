@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","contentClasses":"cards","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.689+08:00","updated":"2024-08-01T08:16:16.922+08:00"}
+{"dg-publish":true,"permalink":"/home/","contentClasses":"cards","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.689+08:00","updated":"2024-08-01T08:17:53.875+08:00"}
 ---
 
 
@@ -12,7 +12,7 @@ My name is Paula/Z (she/her, they/them), and I am a researcher and editor based 
 
 This space serves as a repository of my living thoughts, things I'm learning, rabbit holes I fall into, etc. Not quite a blog in the usual sense, here you will find initial thoughts, growing ideas, notes on stuff I am reading, maybe some essays here and there, all in the spirit of [learning in public](https://www.swyx.io/learn-in-public). 
 
-Like most digital gardeners, I write here mostly for myself—rather, my future self—from my personal Obsidian vault (my greenhouse). While it *is* curated, it's not always organized (and that's the beauty of it!). 
+Like most digital gardeners, I write here mostly for myself—my future self, rather—from my personal Obsidian vault (my greenhouse). While the garden *is* curated to a certain point, it's not always organized (and that's the beauty of it!). 
 
 #### As you explore:
 1. *Embrace the unrefined*: Some/most ideas here are works in progress. I could be wrong and/or I could be right, and that's ok!
