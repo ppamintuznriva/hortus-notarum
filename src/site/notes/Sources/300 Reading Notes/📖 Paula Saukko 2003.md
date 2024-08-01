@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/300-reading-notes/paula-saukko-2003/","title":"Doing Research in Cultural Studies","tags":["🤓","🔥"],"created":"2024-07-17T13:37:04.325+08:00","updated":"2024-07-22T11:07:08.643+08:00"}
+{"dg-publish":true,"permalink":"/sources/300-reading-notes/paula-saukko-2003/","title":"Doing Research in Cultural Studies","tags":["🤓","🔥"],"created":"2024-07-17T13:37:04.325+08:00","updated":"2024-08-01T23:28:10.170+08:00"}
 ---
 
 ![cover|150](http://books.google.com/books/content?id=3g3PG75i0aAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
@@ -18,7 +18,8 @@ Cultural studies provides latitude for a variety of methodologies in the interes
 
 ## Highlights
 
-> [!question] Is culture the most important topic to investigate in the face of gruelling global economic inequality and exploitation? (12)
+> [!question] 
+> Is culture the most important topic to investigate in the face of gruelling global economic inequality and exploitation? (12)
 
 ## My Notes
 
@@ -53,16 +54,19 @@ Cultural studies provides latitude for a variety of methodologies in the interes
 	- [[Garden/critical heritage/🪨 'deconstructive validity'\|🪨 'deconstructive validity']](poststructuralist) - "structuralist"
     - [['contextual validity'\|'contextual validity']] (realist or contextualist) - New Leftist
 
->[!quote] Dialogism does not view research in terms of describing other worlds from the outside, but in terms of an encounter or interaction between different worlds. (20)
+>[!quote] 
+> Dialogism does not view research in terms of describing other worlds from the outside, but in terms of an encounter or interaction between different worlds. (20)
 
 >[!quote] on the advantages of thinking in terms of multiple validities
 >instead of considering this an outrage, scholarship suggesting multiple validities ask us to be more critically aware of what drives our research (18)
 
->[!quote] on the advantages of multiple validities
+>[!quote]
+> on the advantages of multiple validities
 >to come up with more multidimensional, nuanced, and tentative way of understanding one's object of study (18)
 >
 
-> [!question] What would be the purpose of social inquiry without a social agenda?
+> [!question] 
+> What would be the purpose of social inquiry without a social agenda?
 
 **Paradigms of combining methodologies**
 ![@saukkoDoingResearchCultural2003-36-x32-y410.png](/img/user/Extras/Images/@saukkoDoingResearchCultural2003-36-x32-y410.png)
