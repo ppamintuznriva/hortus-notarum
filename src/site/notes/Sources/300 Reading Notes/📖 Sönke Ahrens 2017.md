@@ -394,7 +394,7 @@ To have an undistracted brain to think with and a reliable collection of notes t
 
 
 ---
- [[Spaces/PKM + Hobbies/04 Support Notes/🪨 Tool Box\|🪨 Tool Box]] 
+ [[Efforts/PKM + Hobbies/04 Support Notes/🪨 Tool Box\|🪨 Tool Box]] 
  We need four tools: ·       Something to write with and something to write on (pen and paper will do) ·       A reference management system (the best programs are free) ·       The slip-box (the best program is free) ·       An editor (whatever works best for you: very good ones are free) More is unnecessary, less is impossible. — location: [564]()
 { #ref-6150}
 
@@ -538,19 +538,19 @@ Seeking feedback, not avoiding it, is the first virtue of anyone who wants to le
 Ironically, it is therefore often the highly gifted and talented students, who receive a lot of praise, who are more in danger of developing a fixed mindset and getting stuck. — location: [944]()
 { #ref-50697}
 
-[[Spaces/PKM + Hobbies/04 Support Notes/Gifted Child Syndrome\|Gifted Child Syndrome]]
+[[Efforts/PKM + Hobbies/04 Support Notes/Gifted Child Syndrome\|Gifted Child Syndrome]]
 
 ---
 they tend to focus on keeping this impression intact, rather than exposing themselves to new challenges and the possibility of learning from failure. — location: [946]()
 { #ref-14863}
 
-[[Spaces/PKM + Hobbies/04 Support Notes/Gifted Child Syndrome\|Gifted Child Syndrome]]
+[[Efforts/PKM + Hobbies/04 Support Notes/Gifted Child Syndrome\|Gifted Child Syndrome]]
 
 ---
 Embracing a growth mindset means to get pleasure out of changing for the better (which is mostly inwardly rewarding) instead of getting pleasure in being praised (which is outwardly rewarding). — location: [947]()
 { #ref-27286}
 
-[[Spaces/PKM + Hobbies/04 Support Notes/Gifted Child Syndrome\|Gifted Child Syndrome]]
+[[Efforts/PKM + Hobbies/04 Support Notes/Gifted Child Syndrome\|Gifted Child Syndrome]]
 
 ---
 To seek as many opportunities to learn as possible is the most reliable long-term growth strategy. — location: [949]()
@@ -593,7 +593,7 @@ the more connected information we already have, the easier it is to learn, becau
 
 
 ---
-[[Spaces/PKM + Hobbies/04 Support Notes/Ahrens - The Six Steps to Successful Writing\|Ahrens - The Six Steps to Successful Writing]] 
+[[Efforts/PKM + Hobbies/04 Support Notes/Ahrens - The Six Steps to Successful Writing\|Ahrens - The Six Steps to Successful Writing]] 
 
 the constant interruption of emails and text messages cuts our productivity by about 40% and makes us at least 10 IQ points dumber. — location: [999]()
 { #ref-46038}
