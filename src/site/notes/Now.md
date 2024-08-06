@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/now/","created":"2024-07-23T10:40:23.995+08:00","updated":"2024-08-06T13:53:20.951+08:00"}
+{"dg-publish":true,"permalink":"/now/","created":"2024-07-23T10:40:23.995+08:00","updated":"2024-08-06T14:30:11.364+08:00"}
 ---
 
 
@@ -11,7 +11,7 @@ I currently have two papers submitted to journals (I learned that I am now at th
 
 While I wait for the reviews to come in, I'm on the lookout for higher degree by research (HDR) supervisors because I really would like to learn more and work on childhood studies or critical heritage studies, too (there is so much to read! but here's what I'm [[Atlas/📋 Currently Reading\|📋 Currently Reading]]). 
 
-I've decided to start work on another heritage paper, this time more theoretical/methodological in relation to Barthes' *Mythologies* and geography.  I am excited! 
+I've decided to start work on another heritage paper, this time more theoretical/methodological in relation to Barthes' *Mythologies*, geography and urban studies.  I am excited! 
 
 I'm setting up and tending to my digital garden (still). Work-wise, we are deep in production for the next TCR volume so that occupies most of my 8 to 5 these days. 
 
