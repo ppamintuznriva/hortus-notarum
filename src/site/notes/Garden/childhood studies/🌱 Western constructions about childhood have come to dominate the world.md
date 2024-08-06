@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/childhood-studies/western-constructions-about-childhood-have-come-to-dominate-the-world/","created":"2024-05-01T22:01:51.436+08:00","updated":"2024-08-03T18:02:35.550+08:00"}
+{"dg-publish":true,"permalink":"/garden/childhood-studies/western-constructions-about-childhood-have-come-to-dominate-the-world/","created":"2024-05-01T22:01:51.436+08:00","updated":"2024-08-05T20:56:23.061+08:00"}
 ---
 
 > [!annotation-purple] The SAGE encyclopedia of children and childhood studies 2020, 346
