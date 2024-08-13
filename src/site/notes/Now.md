@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/now/","created":"2024-07-23T10:40:23.995+08:00","updated":"2024-08-06T14:30:11.364+08:00"}
+{"dg-publish":true,"permalink":"/now/","created":"2024-07-23T10:40:23.995+08:00","updated":"2024-08-13T09:40:41.077+08:00"}
 ---
 
-
-![IMG_7222.jpeg|200](/img/user/Extras/Images/IMG_7222.jpeg)
+![IMG_7447.png|300](/img/user/Extras/IMG_7447.png)
 
 **Right now:**
 
@@ -13,7 +12,7 @@ While I wait for the reviews to come in, I'm on the lookout for higher degree by
 
 I've decided to start work on another heritage paper, this time more theoretical/methodological in relation to Barthes' *Mythologies*, geography and urban studies.  I am excited! 
 
-I'm setting up and tending to my digital garden (still). Work-wise, we are deep in production for the next TCR volume so that occupies most of my 8 to 5 these days. 
+I'm setting up and tending to my digital garden (still). Work-wise, we are deep in production for the next TCR volume so that occupies most of my 8 to 5 these days. I recently got a new desk at the Research Laboratory, and I think it looks nice.
 
 ---
 Why a *Now* Page? While building this garden, I saw the idea of a *Now* page on [Teresa Watts'](https://teresawatts.com/)website, as well as some others and thought that it would be cool to have one, too. I will update when I remember to, hehe. Inspired by the [/Now page movement](https://nownownow.com/about)
