@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/critical-heritage/whose-heritage/","created":"2023-09-06T11:33:52.379+08:00","updated":"2024-08-01T23:21:57.602+08:00"}
+{"dg-publish":true,"permalink":"/garden/critical-heritage/whose-heritage/","created":"2023-09-06T11:33:52.379+08:00","updated":"2024-09-19T10:46:42.475+08:00"}
 ---
 
 
@@ -22,3 +22,6 @@ related: [["the right to the city" Lefebvre 1996\|"the right to the city" Lefebv
 [[insight: distinct does not mean separate\|insight: distinct does not mean separate]]
 
 "representation as a key moment of meaning-making" [@watertonCultureHeritageRepresentation2010]
+
+
+
