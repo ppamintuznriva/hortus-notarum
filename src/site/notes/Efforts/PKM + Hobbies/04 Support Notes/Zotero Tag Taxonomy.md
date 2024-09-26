@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/efforts/pkm-hobbies/04-support-notes/zotero-tag-taxonomy/","created":"2024-06-27T15:36:54.387+08:00","updated":"2024-09-27T07:31:16.430+08:00"}
+---
+
+
+- 🤓: Reading
+	- Color: light 🍈
+	- Number: 1
+- ❌: Abandoned
+	- Color: 🟥
+	- Number: 2
+- 📚: To Be Read Next
+	- Color: 🟧
+	- Number: 3
+- ⏩: To skim
+	- Color: 🟦
+	- Number: 4
+- 📂: References to Read
+	- Color: 🩶
+	- Number: 5
+- 🔥: Important/Critical
+	- Color: 🔥
+	- Number: 6
+- 😈: Worth a Second Look
+	- Color: 🟪  
+	- Number: 7
+- ✅: Done Reading
+	- Color: dark 🟩
+	- Number: 8
