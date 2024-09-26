@@ -3,7 +3,7 @@
 ---
 
 [[Garden/childhood studies/childhood in the past\|childhood in the past]]
-[[Garden/childhood studies/🪨 The Igorot Boys (and Girls)\|🪨 The Igorot Boys (and Girls)]]
+[[🪨 The Igorot Boys (and Girls)\|🪨 The Igorot Boys (and Girls)]]
 @jenksBalonglongIgorotBoy1907
 [[Garden/childhood studies/🌱 focus on children enabled postponement of independence to the next generation(s)\|🌱 focus on children enabled postponement of independence to the next generation(s)]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/critical-heritage/whose-heritage/","created":"2023-09-06T11:33:52.379+08:00","updated":"2024-09-19T10:46:42.475+08:00"}
+{"dg-publish":true,"permalink":"/garden/critical-heritage/whose-heritage/","created":"2023-09-06T11:33:52.379+08:00","updated":"2024-09-19T10:48:25.202+08:00"}
 ---
 
 

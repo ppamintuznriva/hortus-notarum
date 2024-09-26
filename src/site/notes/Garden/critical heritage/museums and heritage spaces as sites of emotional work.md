@@ -10,5 +10,5 @@
 
 though they are spaces of power, museums and heritage sites could provide people a space to work through their feelings and thoughts toward heritage
 
-heritage managers and workers need to be aware of the impact and role of people's emotions and provide the space and support for people to deal with those negative emotions stirred by heritage sites (from [[Sources/Podcasts/📖🫛 Laurajane Smith on Weaponized Nostalgia\|📖🫛 Laurajane Smith on Weaponized Nostalgia]])
+heritage managers and workers need to be aware of the impact and role of people's emotions and provide the space and support for people to deal with those negative emotions stirred by heritage sites (from [[📖🫛 Laurajane Smith on Weaponized Nostalgia\|📖🫛 Laurajane Smith on Weaponized Nostalgia]])
 
