@@ -1,18 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/now/","created":"2024-07-23T10:40:23.995+08:00","updated":"2024-08-13T09:43:48.295+08:00"}
+{"dg-publish":true,"permalink":"/now/","created":"2024-07-23T10:40:23.995+08:00","updated":"2024-09-27T11:12:31.338+08:00"}
 ---
 
 ![IMG_7447.png|300](/img/user/Extras/IMG_7447.png)
 
 **Right now:**
 
-I currently have two papers submitted to journals (I learned that I am now at the mercy of Reviewer 2 for one of them lol). Yay! 
+Both the papers I submitted received positive reviews, with very helpful comments from reviewers that I'm (genuinely) looking forward to revising after I finish drafting a third paper (!!!). The CSC has also been engaging in conversations with students and faculty about research, Cordillera Studies, and digital tools and it's been very exciting and gratifying to share about personal knowledge management and Zettelkasten. I'm also applying for funding to present at a Conference in Melbourne later this year! Whewww
 
-While I wait for the reviews to come in, I'm on the lookout for higher degree by research (HDR) supervisors because I really would like to learn more and work on childhood studies or critical heritage studies, too (there is so much to read! but here's what I'm [[Atlas/📋 Currently Reading\|📋 Currently Reading]]). I feel grateful to have received some interest on my proposal to study colonial representations of childhood in the Philippines, and am keeping my fingers crossed for offers (and scholarships! hehe).
-
-I've decided to start work on another heritage paper, this time more theoretical/methodological in relation to Barthes' *Mythologies*, geography and urban studies.  Submitted a preliminary abstract to a conference, but must wait until the end of August for notice. I am excited!
-
-I'm setting up and tending to my digital garden (still). Work-wise, we are deep in production for the next TCR volume so that occupies most of my 8 to 5 these days. I recently got a new desk at the Research Laboratory, and I think it looks nice.
+Still tending to my digital garden when I can. I recently updated my [[Extras/Excalidraw/Workflow (Sept 2024)\|Workflow (Sept 2024)]] and posted my [[Efforts/PKM + Hobbies/04 Support Notes/Zotero Tag Taxonomy\|Zotero Tag Taxonomy]].
 
 ---
 Why a *Now* Page? While building this garden, I saw the idea of a *Now* page on [Teresa Watts'](https://teresawatts.com/)website, as well as some others and thought that it would be cool to have one, too. I will update when I remember to, hehe. Inspired by the [/Now page movement](https://nownownow.com/about)
