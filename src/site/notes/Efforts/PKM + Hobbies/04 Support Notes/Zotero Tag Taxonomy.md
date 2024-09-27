@@ -4,7 +4,7 @@
 
 (Partially adapted from [Bryan Jenks' Tag Taxonomy](https://notes.bryanjenks.dev/Z/Tag+Taxonomy))
 
-Related: [[How to add visual tags to Zotero (Quick and Dirty)\|How to add visual tags to Zotero (Quick and Dirty)]]
+Related: [[Gardening/How to add visual tags to Zotero (Quick and Dirty)\|How to add visual tags to Zotero (Quick and Dirty)]]
 
 - 🤓: Reading
 	- Color: light 🍈
