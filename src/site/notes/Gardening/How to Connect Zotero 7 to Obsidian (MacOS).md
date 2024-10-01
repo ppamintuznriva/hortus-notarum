@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.620+08:00","updated":"2024-10-01T08:29:46.650+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.620+08:00","updated":"2024-10-01T08:35:00.803+08:00"}
 ---
 
 
@@ -9,9 +9,9 @@ Note: This is assuming you already have both Zotero 7 and Obsidian installed on 
 
 ## On Zotero: Better BibTeX for Zotero Plugin
 1. [Download](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.238) the Better BibTeX for Zotero plugin 
-![Screenshot 2024-09-30 at 9.18.10 AM.png](/img/user/Extras/Screenshot%202024-09-30%20at%209.18.10%20AM.png)
+![Screenshot 2024-09-30 at 9.18.10 AM 1.png](/img/user/Extras/Screenshot%202024-09-30%20at%209.18.10%20AM%201.png)
 2. Follow the [Installation Instructions](https://retorque.re/zotero-better-bibtex/installation/) for Zotero. 
-![Screenshot 2024-09-30 at 8.36.05 PM.png](/img/user/Extras/Screenshot%202024-09-30%20at%208.36.05%20PM.png)
+![Screenshot 2024-09-30 at 8.36.05 PM 1.png](/img/user/Extras/Screenshot%202024-09-30%20at%208.36.05%20PM%201.png)
 **What this does:** BBT generates unique 'citation keys' for each reference saved on Zotero (they will start with an '@') and facilitates exportation to Obsidian. More info on the [Retorque](https://retorque.re/zotero-better-bibtex/index.html) website.
 
 ## Step 2: On Obsidian: Zotero Integration Plugin
