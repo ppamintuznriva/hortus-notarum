@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.620+08:00","updated":"2024-10-01T09:32:09.506+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.620+08:00","updated":"2024-10-01T09:34:58.853+08:00"}
 ---
 
 
@@ -17,8 +17,7 @@ Note: This is assuming you already have both Zotero 7 and Obsidian installed on 
 
 ## Step 2: On Obsidian: Zotero Integration Plugin
 
-1. Save the [ZI Template](https://drive.google.com/file/d/1xiPVCoDMWQTC4p2AQZTNqjsUrE098JVZ/view?usp=sharing) onto your Obsidian vault. Download it from the link and drag it into your file explorer/Templates folder.
-![[Screen Recording 2024-10-01 at 12.34.04 AM 1.mov]]
+1. Save the [ZI Template](https://drive.google.com/file/d/1xiPVCoDMWQTC4p2AQZTNqjsUrE098JVZ/view?usp=sharing) onto your Obsidian vault. Download it from the link and drag it into your file explorer/Templates folder.![Screen Recording 2024-10-01 at 12.34.04 AM.gif](/img/user/Extras/Screen%20Recording%202024-10-01%20at%2012.34.04%20AM.gif)
 3. If you haven't yet, go to Obsidian Settings and activate Community Plugins. Click 'Browse' and search for 'Zotero Integration', then **install** and **enable** the plugin. The next step is to modify the plugin options.
 ![Screenshot 2024-09-30 at 11.25.13 PM 2.png](/img/user/Extras/Screenshot%202024-09-30%20at%2011.25.13%20PM%202.png)
 
