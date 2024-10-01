@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.620+08:00","updated":"2024-10-01T09:34:58.853+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.620+08:00","updated":"2024-10-01T09:50:48.369+08:00"}
 ---
 
 
-Note: This is assuming you already have both Zotero 7 and Obsidian installed on your machine. Please take note that these instructions werqe made on MacOS. Also, this was supposed to have more images but Netlify has decided to give me nothing but grief this morning.
+**Note**: This is assuming you already have both Zotero 7 and Obsidian installed on your machine. Please take note that these instructions werqe made on MacOS. Also, this was supposed to have more images but Netlify has decided to give me nothing but grief this morning.
 
 **Why do this?** Connecting Zotero to Obsidian helps create a more seamless research workflow, where your highlights, notes, metadata, etc. can be easily exported from the former to the latter. This also facilitates keeping your Reading Notes in one place, and lets you make your own concept notes as you read so you can more easily identify themes and connections as you read. This is just one way of doing so, and as you get more familiarized with your workflow, you will be able to make it as complex or simple (simple is better) as you need.
 
@@ -25,7 +25,7 @@ At this point, you can also set hotkeys for Zotero Integration if you like. Clic
 
 3. Set the following for the plugin options/settings. 
 ![Screenshot 2024-10-01 at 12.54.27 AM 4.png](/img/user/Extras/Screenshot%202024-10-01%20at%2012.54.27%20AM%204.png)
-![Screenshot 2024-10-01 at 12.55.39 AM 3.png](/img/user/Extras/Screenshot%202024-10-01%20at%2012.55.39%20AM%203.png)
+![Screenshot 2024-10-01 at 1.06.39 AM 1.png](/img/user/Extras/Screenshot%202024-10-01%20at%201.06.39%20AM%201.png)
 4. Open the Command Palette by pressing 'Cmd + P' on Mac then search for the plugin's commands (the Name you set in the options. In this case, it is '📖 Reading Note'). Clicking on it will bring up a search bar for Zotero. Look for the reference you need and select it to create your Reading Note.
 ![Screenshot 2024-10-01 at 1.09.59 AM 2.png](/img/user/Extras/Screenshot%202024-10-01%20at%201.09.59%20AM%202.png)
 ![Screenshot 2024-10-01 at 1.10.40 AM 3.png](/img/user/Extras/Screenshot%202024-10-01%20at%201.10.40%20AM%203.png)
