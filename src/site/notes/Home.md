@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.689+08:00","updated":"2024-12-03T16:54:10.649+08:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.689+08:00","updated":"2024-12-04T08:09:30.934+08:00"}
 ---
 
 
@@ -14,7 +14,7 @@ This space serves as a repository of my living thoughts, things I'm learning, ra
 
 Like most digital gardeners, I write here mostly for myself—my future self, rather—from my personal Obsidian vault (my greenhouse). While the garden *is* curated to a certain point, it's not always organized (and that's the beauty of it!). 
 #### Lately, as opposed to [[Now\|Now]]
-Presented a paper on [[The Outputs/ADI_Preserving and Intangible Sky/101 Preserving an Intangible Sky (Conference Paper)/📝 Preserving an Intangible Sky/Preserving an Intangible Sky Abstract\|Baguio Climate as Heritage]] at [ADI Conference 2024: Remaking Futures: Justice, Equality and Global Flourishing](https://web-eur.cvent.com/event/4635d67e-11ed-4dca-8ea5-abbf5bc4a709/websitePage:1f2611f7-6b42-4e20-9af0-dbf0491f4f62) on 25-26 November 2024 at the Deakin University Burwood Corporate Center, Melbourne VIC, Australia through funding from the University of the Philippines Baguio Research Dissemination Grant (RDG) and UP System RDG. It was such a fun and lovely experience meeting the folks at ADI, and learning about their research and initiatives for a more equitable future for all. Video of my paper presentation [[ADI 2024 Presentation Video\|here]].
+Presented a paper on [[The Outputs/ADI_Preserving and Intangible Sky/101 Preserving an Intangible Sky (Conference Paper)/📝 Preserving an Intangible Sky/Preserving an Intangible Sky Abstract\|Baguio Climate as Heritage]] at [ADI Conference 2024: Remaking Futures: Justice, Equality and Global Flourishing](https://web-eur.cvent.com/event/4635d67e-11ed-4dca-8ea5-abbf5bc4a709/websitePage:1f2611f7-6b42-4e20-9af0-dbf0491f4f62) on 25-26 November 2024 at the Deakin University Burwood Corporate Center, Melbourne VIC, Australia through funding from the University of the Philippines Baguio Research Dissemination Grant (RDG) and UP System RDG. It was such a fun and lovely experience meeting the folks at ADI, and learning about their research and initiatives for a more equitable future for all. Video of my paper presentation [here](https://drive.google.com/file/d/1qdQOZbroduiKNGyPQR9GLrVR_LjLfxjk/view?fbclid=IwZXh0bgNhZW0CMTEAAR1t5oIDq0vL-i_bruhcB19L6t90Q3YjjMdb7iR8QxlkID1rKVESopm7wqk_aem_DH3M5rQL13CUkIxXRSesbQ).
 
 Also had the wonderful opportunity to chat about knowledge management and writing with UP Baguio undergraduate students who are about to do their Bachelor's Thesis. Hello, [[SS 199 Talks on Personal Knowledge Management and Academic Work\|SS 199]] and [BLL 199](https://www.facebook.com/permalink.php?story_fbid=pfbid0EPxKMNtEtHihNpFN6ypM6xCFsuXE426Mi5AHBFCo3gqVhmxr519FGXzAiKqrpQjvl&id=61566029457201)!
 #### As you explore:
