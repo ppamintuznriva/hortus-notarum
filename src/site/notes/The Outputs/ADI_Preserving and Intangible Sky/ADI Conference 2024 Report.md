@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-outputs/adi-preserving-and-intangible-sky/adi-conference-2024-report/","created":"2024-12-04T15:42:02.485+08:00","updated":"2024-12-17T13:21:00.654+08:00"}
+{"dg-publish":true,"permalink":"/the-outputs/adi-preserving-and-intangible-sky/adi-conference-2024-report/","created":"2024-12-04T15:42:02.485+08:00","updated":"2024-12-17T13:24:56.148+08:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Sleek and functional Conference goodies from ADI! Photo courtesy of ADI.
 > [!quote] 
 > What are the fundaments of hope in our world despite the challenges and barriers that confront us? How can the humanities and social sciences be impactful tools in the remaking of just, equal and flourishing futures for all?
 
-These were some of the questions that resonated with me during the ADI Conference 2024, held from 25-26 November 2024 at the Deakin Burwood Corporate Center, Melbourne VIC, Australia, which I had the pleasure of attending in person after a long hiatus due to the pandemic. Organized by Deakin University's Alfred Deakin Institute (ADI) for Citizenship and Globalization, Australia's leading humanities and social science research institute, the two-day event was a fantastic opportunity to listen to and meet with global scholars and  professionals whose work generate impactful insights and who have such genuine concern for creating meaningful, equitable and just futures for all. Now, I'm almost a week back in Baguio, and do I have the answers to these questions? Certainly not in any conclusive way, but here are some of my takeaways from the Conference:
+These were some of the questions that resonated with me during the [ADI Conference 2024](https://adi.deakin.edu.au/event/adi-conference-2024-remaking-futures-justice-equality-and-global-flourishing/), held from 25-26 November 2024 at the Deakin Burwood Corporate Center, Melbourne VIC, Australia, which I had the pleasure of attending in person after a long hiatus due to the pandemic. Organized by Deakin University's [Alfred Deakin Institute (ADI) for Citizenship and Globalization](https://adi.deakin.edu.au/), Australia's leading humanities and social science research institute, the two-day event was a fantastic opportunity to listen to and meet with global scholars and  professionals whose work generate impactful insights and who have such genuine concern for creating meaningful, equitable and just futures for all. Now, I'm almost a week back in Baguio, and do I have the answers to these questions? Certainly not in any conclusive way, but here are some of my takeaways from the Conference:
 
 1. We *still* need to be human.
 2. Not all support is constructive.
