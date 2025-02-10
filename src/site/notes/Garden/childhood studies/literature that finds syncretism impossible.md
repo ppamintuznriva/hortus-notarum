@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/childhood-studies/literature-that-finds-syncretism-impossible/","created":"2024-04-30T13:39:51.337+08:00","updated":"2024-07-31T16:20:46.480+08:00"}
+{"dg-publish":true,"permalink":"/garden/childhood-studies/literature-that-finds-syncretism-impossible/","created":"2024-04-30T13:39:51.000+08:00","updated":"2024-07-31T16:20:46.000+08:00"}
 ---
 
 Joseph Conrad and Nadine Gordimer

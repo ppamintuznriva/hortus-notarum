@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/critical-heritage/museums-and-heritage-spaces-as-sites-of-emotional-work/","created":"2024-06-17T21:31:04.421+08:00","updated":"2024-08-01T11:16:02.050+08:00"}
+{"dg-publish":true,"permalink":"/garden/critical-heritage/museums-and-heritage-spaces-as-sites-of-emotional-work/","created":"2024-06-17T21:31:04.000+08:00","updated":"2024-08-01T11:16:02.000+08:00"}
 ---
 
 >[!info] [[Gardening/epistemic status\|epistemic status]]:

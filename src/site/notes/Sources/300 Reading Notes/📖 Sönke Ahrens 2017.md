@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/300-reading-notes/soenke-ahrens-2017/","title":"How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers","created":"2024-04-10T17:02:02.878+08:00","updated":"2024-07-28T12:40:46.877+08:00"}
+{"dg-publish":true,"permalink":"/sources/300-reading-notes/soenke-ahrens-2017/","title":"How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers","created":"2024-04-10T17:02:02.000+08:00","updated":"2024-07-28T12:40:46.000+08:00"}
 ---
 
 

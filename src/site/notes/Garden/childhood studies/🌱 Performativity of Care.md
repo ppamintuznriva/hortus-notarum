@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/childhood-studies/performativity-of-care/","created":"2024-03-21T10:02:12.586+08:00","updated":"2024-08-01T23:08:29.357+08:00"}
+{"dg-publish":true,"permalink":"/garden/childhood-studies/performativity-of-care/","created":"2024-03-21T10:02:12.000+08:00","updated":"2024-08-01T23:08:29.000+08:00"}
 ---
 
 [Performing Care and Carelessness Conference](https://www.otago.ac.nz/__data/assets/pdf_file/0028/502777/CFP-Performing-Care-and-Carelessness-Conference.pdf)

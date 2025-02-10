@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/wtwf-what-s-the-workflow/","created":"2024-09-27T06:48:59.666+08:00","updated":"2024-10-01T09:24:17.621+08:00"}
+{"dg-publish":true,"permalink":"/gardening/wtwf-what-s-the-workflow/","created":"2024-09-27T06:48:59.000+08:00","updated":"2024-10-01T09:24:17.000+08:00"}
 ---
 
 Look, I know that it's blurry. I'm still trying to figure it out. The image is hosted [here](https://drive.google.com/file/d/1I6yd38ByofngbUtsjEb9NCuibNb6yNiv/view?usp=sharing), or if you [[Got Feedback?\|Got Feedback?]] on how to fix it, I will be grateful.

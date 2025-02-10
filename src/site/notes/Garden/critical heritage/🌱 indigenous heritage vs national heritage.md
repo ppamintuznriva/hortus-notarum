@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/critical-heritage/indigenous-heritage-vs-national-heritage/","created":"2024-07-04T10:02:56.679+08:00","updated":"2024-09-27T06:39:04.392+08:00"}
+{"dg-publish":true,"permalink":"/garden/critical-heritage/indigenous-heritage-vs-national-heritage/","created":"2024-07-04T10:02:56.000+08:00","updated":"2024-09-27T06:39:04.000+08:00"}
 ---
 
 Tension inherent in the determination of "heritage" following guidelines set by international, national or even academic bodies.

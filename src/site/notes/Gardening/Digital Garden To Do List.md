@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/digital-garden-to-do-list/","created":"2024-07-21T20:27:34.920+08:00","updated":"2024-09-27T07:32:14.746+08:00"}
+{"dg-publish":true,"permalink":"/gardening/digital-garden-to-do-list/","created":"2024-07-21T20:27:34.000+08:00","updated":"2024-09-27T07:32:14.000+08:00"}
 ---
 
 ### Writing

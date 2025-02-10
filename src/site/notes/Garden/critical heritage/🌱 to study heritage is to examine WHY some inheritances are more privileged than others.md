@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/critical-heritage/to-study-heritage-is-to-examine-why-some-inheritances-are-more-privileged-than-others/","created":"2024-07-10T11:13:43.003+08:00","updated":"2024-09-04T15:27:13.344+08:00"}
+{"dg-publish":true,"permalink":"/garden/critical-heritage/to-study-heritage-is-to-examine-why-some-inheritances-are-more-privileged-than-others/","created":"2024-07-10T11:13:43.000+08:00","updated":"2024-09-04T15:27:13.000+08:00"}
 ---
 
 > [!cite] [[Sources/300 Reading Notes/📖 Graham, Ashworth and Tunbridge 2000\|📖 Graham, Ashworth and Tunbridge 2000]], 29

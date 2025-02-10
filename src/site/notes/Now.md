@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/now/","created":"2024-07-23T10:40:23.995+08:00","updated":"2024-09-27T13:12:55.581+08:00"}
+{"dg-publish":true,"permalink":"/now/","created":"2024-07-23T10:40:23.000+08:00","updated":"2024-09-27T13:12:55.000+08:00"}
 ---
 
 ![IMG_7447.png|300](/img/user/Extras/IMG_7447.png)
