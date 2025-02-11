@@ -5,7 +5,7 @@
 
 
 > [!annotation-yellow] Highlight
->They are willing to examine the specific individual and cultural differences between Europeans and natives and to reflect on the efficacy of European values, assumptions, and habits in contrast to those of the indigenous cultures.([[Sources/300 Reading Notes/📖 Janmohamed 1995\|📖 Janmohamed 1995]], [19](zotero://open-pdf/library/items/AP4X9TIW?page=2&annotation=FLT45WFD))
+>They are willing to examine the specific individual and cultural differences between Europeans and natives and to reflect on the efficacy of European values, assumptions, and habits in contrast to those of the indigenous cultures.([[Sources/000 Reading Notes/📖 Janmohamed 1995\|📖 Janmohamed 1995]], [19](zotero://open-pdf/library/items/AP4X9TIW?page=2&annotation=FLT45WFD))
 > [[2024-04-30#10:19\|2024-04-30#10:19]]
 
 Can be further subdivided:
