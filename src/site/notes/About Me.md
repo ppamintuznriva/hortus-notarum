@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2024-08-06T22:04:41.000+08:00"}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-02-18T09:17:03.931+08:00"}
 ---
 
 ![riva pfp.png|300](/img/user/Extras/Images/riva%20pfp.png)
@@ -20,7 +20,7 @@ I am married and a parent. 🌱
 ✉️ mmpamintuanriva@up.edu.ph
 ## Career Experience
 - University Researcher I, University of the Philippines Baguio Cordillera Studies Center (2012-present)
-- Editorial Assistant, [*The Cordillera Review: Journal of Philippine Culture and Society*](https://thecordillerareview.upb.edu.ph/) (concurrent with UR role)
+- Assistant Editor, [*The Cordillera Review: Journal of Philippine Culture and Society*](https://thecordillerareview.upb.edu.ph/) (concurrent with UR role)
 - Teacher/Faculty Member in English and Art History in secondary to undergraduate level classes (2011-2012)
 - Podcast Writer, Editor and Co-Host, [CSC@40: CSC Fieldnotes Podcast](https://open.spotify.com/show/2oDR93FhlZ8qDrXzx5qXHt)(2020–2023)
 ## Education/Qualifications
