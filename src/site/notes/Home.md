@@ -1,30 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.000+08:00","updated":"2025-04-22T15:42:28.606+08:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.000+08:00","updated":"2025-04-22T16:13:43.956+08:00"}
 ---
 
-
+**
 ![IMG_7330 1.png|200](/img/user/Extras/Images/IMG_7330%201.png)
 
 ᜋᜉᜎᜓᜉᜇᜒ
-#### Hi there! You've found my digital garden! 🌻
+# Hi there! You've found my digital garden! 🌻
 
 My name is Paula/Z (she/her, they/them), and I am a researcher and editor based in Baguio City, Philippines. If you're looking for my CV, it's [[About Me\|here]].
 
 This space serves as a repository of my living thoughts, things I'm learning, rabbit holes I fall into, etc. Not quite a blog in the usual sense, here you will find initial thoughts, growing ideas, notes on stuff I am reading, maybe some essays here and there, all in the spirit of [learning in public](https://www.swyx.io/learn-in-public). 
 
 Like most digital gardeners, I write here mostly for myself—my future self, rather—from my personal Obsidian vault (my greenhouse). While the garden *is* curated to a certain point, it's not always organized (and that's the beauty of it!). 
-#### Lately, as opposed to [[Now\|Now]]
+# Lately, as opposed to [[Now\|Now]]
 I am officially published! Thrilled (and to be honest, relieved) that my article ["‘Tighten the knot of our blanket slings’: The Endurance of Babywearing Practice and the Visual Politics of Childhood in the Cordillera Region of North Luzon, Philippines"](https://www.tandfonline.com/journals/ycip20) has been published in the [*Childhood in the Past*](https://www.tandfonline.com/journals/ycip20), an international journal managed by the Society of the Study of Childhood in the Past (SSCIP) and hosted by Taylor and Francis. Hit me up for free e-prints!
 ✉️ mmpamintuanriva@up.edu.ph
 
 Presented a paper on [[The Outputs/ADI_Preserving and Intangible Sky/101 Preserving an Intangible Sky (Conference Paper)/📝 Preserving an Intangible Sky/Preserving an Intangible Sky Abstract\|Baguio Climate as Heritage]] at [ADI Conference 2024: Remaking Futures: Justice, Equality and Global Flourishing](https://web-eur.cvent.com/event/4635d67e-11ed-4dca-8ea5-abbf5bc4a709/websitePage:1f2611f7-6b42-4e20-9af0-dbf0491f4f62) on 25-26 November 2024 at the Deakin University Burwood Corporate Center, Melbourne VIC, Australia through funding from the University of the Philippines Baguio Research Dissemination Grant (RDG) and UP System RDG. It was such a fun and lovely experience meeting the folks at ADI, and learning about their research and initiatives for a more equitable future for all. Conference report [[The Outputs/ADI_Preserving and Intangible Sky/ADI Conference 2024 Report\|here]] and video of paper presentation [here](https://drive.google.com/file/d/1qdQOZbroduiKNGyPQR9GLrVR_LjLfxjk/view?fbclid=IwZXh0bgNhZW0CMTEAAR1t5oIDq0vL-i_bruhcB19L6t90Q3YjjMdb7iR8QxlkID1rKVESopm7wqk_aem_DH3M5rQL13CUkIxXRSesbQ).
 
-#### As you explore:
+# As you explore:
 1. *Embrace the unrefined*: Some/most ideas here are works in progress. I could be wrong and/or I could be right, and that's ok!
-3. *Feel free to wander*: These thoughts are not strictly organized, feel free to jump between links and see where they take you. (You'll notice that some links are still beiged [?] out, that's because I haven't finished deploying everything from my greenhouse as I am actually currently busy writing)
-4. *Check timestamps*: Note when a piece was last tended to.
-5. *Engage thoughtfully*: Comments and discussions are welcome, you can find me on X/Twitter at [@mapalupari](https://x.com/mapalupari). The anonymous [[Got Feedback?\|Got Feedback?]] is up now!
-6. *Be a responsible visitor:* Not sure where you stand in the digital garden? Check the [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos) by Shawn Wang.
+2. *Feel free to wander*: These thoughts are not strictly organized, feel free to jump between links and see where they take you. (You'll notice that some links are still beiged [?] out, that's because I haven't finished deploying everything from my greenhouse as I am actually currently busy writing)
+3. *Check timestamps*: Note when a piece was last tended to.
+4. *Engage thoughtfully*: Comments and discussions are welcome, you can find me on X/Twitter at [@mapalupari](https://x.com/mapalupari). The anonymous [[Got Feedback?\|Got Feedback?]] is up now!
+5. *Be a responsible visitor:* Not sure where you stand in the digital garden? Check the [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos) by Shawn Wang.
 
 ![75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png](/img/user/Extras/Images/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)
 
