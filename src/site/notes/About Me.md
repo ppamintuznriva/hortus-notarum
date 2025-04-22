@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-04-22T15:14:10.283+08:00"}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-04-22T15:23:04.406+08:00"}
 ---
 
 ![riva pfp.png|300](/img/user/Extras/Images/riva%20pfp.png)
@@ -41,8 +41,10 @@ I am married and a parent. 🌱
 **2023–2024.** Team member, Landslide Knowledge Management Center (LKMC) Project, funded by DOST-CAR. Project Leads: W. Alangui and R. Tindaan. [LKMC Online Knowledge Hub.](https://landslidekm.dostcar.ph/) [LKMC How-to Video (with voice-over).](https://drive.google.com/file/d/15Xf9W-JRf7ZwryKkZn7ZuG_HbIAChQ6l/view?usp=sharing).
 **2021–2022.** Paper writer and team member, "Scoping Study on Mining and Natural Resource Governance in the Province of Benguet Focused on Metallic Large Scale and Small-Scale Mining," Part of Project DATA (Deepening Access, Transparency and Accountability to Improve Natural Resource Governance and Empower Communities), funded by [Bantay Kita PH](http://www.bantaykita.ph/). [Mining and Natural Resources Database (MINASdb) Online Knowledge Hub.](https://minasdb.upb.edu.ph/).
 **2019–2021.** Team member, "Profiling State Universities and Colleges (SUCs) in the Cordillera on the Integration of Indigenous Peoples Education in Higher Education Curricula - Section on IPEd History," CSC Inter-disciplinary Team Research Grant, 2019–2021. Project Leads: W. Alangui and R. Tindaan.
-***2016*–2017.** Grant Proponent, "Wearing Babies and Forming Identities: Ubba and the Changing Visual Representations of Childrearing in the Cordillera.” CSC Research Grant, with I. Jularbal. 
+**2016–2017.** Grant Proponent, "Wearing Babies and Forming Identities: Ubba and the Changing Visual Representations of Childrearing in the Cordillera.” CSC Research Grant, with I. Jularbal. 
 ## Speaking and Public Service
+**2024.** Resource Speaker. “Digital Tools Training for Research.” Two-part lecture-workshop delivered for Social Science 199 (Research Methods). UP Baguio, Philippines. [[Efforts/PKM + Hobbies/03 Projects/SS 199 Talks on Personal Knowledge Management and Academic Work\|October 2024]] and [February 2025](https://www.linkedin.com/posts/paula-pamintuan-riva-832b7b267_fast-forward-to-a-new-batch-still-happy-activity-7297795751709945856-iH7t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF9ueYBhjKf0awDiNs3Y7ttjvXaMZ0n5jY).
+**2024.** Resource Speaker. “From Streams to Storehouses: You and the CSC’s Efforts at Knowledge Management.” Lecture delivered for the [CSC Research Conversations Series](https://www.facebook.com/permalink.php?story_fbid=pfbid0EPxKMNtEtHihNpFN6ypM6xCFsuXE426Mi5AHBFCo3gqVhmxr519FGXzAiKqrpQjvl&id=61566029457201), UP Baguio, Philippines. November 2024.
 **2024.** Evaluator. 3rd College of Social Sciences (Benguet State University) Students' Research Congress. La Trinidad, Benguet.
 **2023-present.** Vice President for REPS (Research, Extension, and Professional Staff), All UP Academic Employees Union, University of the Philippines Baguio.
 **2023**. "Rev UP Your Research: Tips and Tricks for the Fourth Industrial Revolution." Lecture-training delivered for Lyceum Philippines University, College of Arts and Sciences faculty. Baguio City, Philippines.
