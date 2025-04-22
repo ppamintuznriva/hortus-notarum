@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.000+08:00","updated":"2025-04-22T15:27:40.647+08:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.000+08:00","updated":"2025-04-22T15:35:03.206+08:00"}
 ---
 
 
@@ -14,7 +14,8 @@ This space serves as a repository of my living thoughts, things I'm learning, ra
 
 Like most digital gardeners, I write here mostly for myself—my future self, rather—from my personal Obsidian vault (my greenhouse). While the garden *is* curated to a certain point, it's not always organized (and that's the beauty of it!). 
 #### Lately, as opposed to [[Now\|Now]]
-I am officially published! Thrilled (and to be honest, relieved) that my article ["‘Tighten the knot of our blanket slings’: The Endurance of Babywearing Practice and the Visual Politics of Childhood in the Cordillera Region of North Luzon, Philippines"](https://www.tandfonline.com/journals/ycip20) has been published in the [*Childhood in the Past*](https://www.tandfonline.com/journals/ycip20), an international journal managed by the Society of the Study of Childhood in the Past (SSCIP) and hosted by Taylor and Francis. Hit me up for free e-prints! ✉️ mmpamintuanriva@up.edu.ph
+I am officially published! Thrilled (and to be honest, relieved) that my article ["‘Tighten the knot of our blanket slings’: The Endurance of Babywearing Practice and the Visual Politics of Childhood in the Cordillera Region of North Luzon, Philippines"](https://www.tandfonline.com/journals/ycip20) has been published in the [*Childhood in the Past*](https://www.tandfonline.com/journals/ycip20), an international journal managed by the Society of the Study of Childhood in the Past (SSCIP) and hosted by Taylor and Francis. Hit me up for free e-prints!
+✉️ mmpamintuanriva@up.edu.ph
 
 Presented a paper on [[The Outputs/ADI_Preserving and Intangible Sky/101 Preserving an Intangible Sky (Conference Paper)/📝 Preserving an Intangible Sky/Preserving an Intangible Sky Abstract\|Baguio Climate as Heritage]] at [ADI Conference 2024: Remaking Futures: Justice, Equality and Global Flourishing](https://web-eur.cvent.com/event/4635d67e-11ed-4dca-8ea5-abbf5bc4a709/websitePage:1f2611f7-6b42-4e20-9af0-dbf0491f4f62) on 25-26 November 2024 at the Deakin University Burwood Corporate Center, Melbourne VIC, Australia through funding from the University of the Philippines Baguio Research Dissemination Grant (RDG) and UP System RDG. It was such a fun and lovely experience meeting the folks at ADI, and learning about their research and initiatives for a more equitable future for all. Conference report [[The Outputs/ADI_Preserving and Intangible Sky/ADI Conference 2024 Report\|here]] and video of paper presentation [here](https://drive.google.com/file/d/1qdQOZbroduiKNGyPQR9GLrVR_LjLfxjk/view?fbclid=IwZXh0bgNhZW0CMTEAAR1t5oIDq0vL-i_bruhcB19L6t90Q3YjjMdb7iR8QxlkID1rKVESopm7wqk_aem_DH3M5rQL13CUkIxXRSesbQ).
 
