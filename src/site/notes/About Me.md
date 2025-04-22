@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-04-22T16:33:24.986+08:00"}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-04-22T16:46:53.986+08:00"}
 ---
 
 ![riva pfp.png|300](/img/user/Extras/Images/riva%20pfp.png)
-# Paula Pamintuan-Riva 
+## Paula Pamintuan-Riva 
 
 My name is Paula (she/her, they/them) and I am an academic researcher from Baguio City, Philippines. I have worked at the [Cordillera Studies Center](https://csc3.upb.edu.ph/) of the [University of the Philippines Baguio](https://www.upb.edu.ph/) since 2012, and my focus area is in academic publishing. I like to dabble in a variety of things, but it feels like my gravitational center always lies in editing and publications. 
 
@@ -28,8 +28,8 @@ I am married and a parent. 🌱
 - Angeles City National High School (Special Science Class), now Angeles City National Science High School
 - Dau Central Elementary School (Special Education - Fast Learner Program)
 ## Recognition
-2023. Gawad Tsanselor para sa Natatanging Research, Extension at Professional Staff (REPS)/Chancellor's Award for Outstanding Research, Extension and Professional Staff (REPS). University of the Philippines Baguio. [(*Speech.*)](https://drive.google.com/file/d/1BExGeuMlsxCRV9TdPOdcTukF65sixTBF/view?usp=sharing) 
-2024.  Outstanding Thesis Awardee (Undergraduate). College of Arts and Communication, University of the Philippines Baguio.
+**2023.** Gawad Tsanselor para sa Natatanging Research, Extension at Professional Staff (REPS)/Chancellor's Award for Outstanding Research, Extension and Professional Staff (REPS). University of the Philippines Baguio. [(*Speech.*)](https://drive.google.com/file/d/1BExGeuMlsxCRV9TdPOdcTukF65sixTBF/view?usp=sharing) 
+**2010.** Outstanding Thesis Awardee (Undergraduate). College of Arts and Communication, University of the Philippines Baguio.
 ## Publications
 **2025.** “‘Tighten the knot of our blanket slings’: The Endurance of Babywearing Practice and the Visual Politics of Childhood in the Cordillera Region of North Luzon, Philippines.” 2025. *Childhood in the Past* 18 (1): 94–113. https://doi.org/10.1080/17585716.2025.2471139
 **2017.** "Writing Red Letters: A Student’s Tribute to Sir Del,” in _Hoy, Boy! A Festschrift for Delfin Tolentino, Jr._, edited by B. Tapang and G. Subido. Baguio City: Cordillera Studies Center.
