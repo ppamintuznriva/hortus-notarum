@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/my-zotero-tag-taxonomy/","created":"2025-02-10T13:19:28.269+08:00","updated":"2025-02-12T08:37:18.365+08:00"}
+{"dg-publish":true,"permalink":"/gardening/my-zotero-tag-taxonomy/","created":"2025-02-10T13:19:28.000+08:00","updated":"2025-02-12T08:37:18.000+08:00"}
 ---
 
 For Zotero's own support guide on creating colored tags (as well as an overview on Collections), go [here](https://www.zotero.org/support/collections_and_tags). I initially learned about creating a colored tag system via [Brian Jenks](https://notes.bryanjenks.dev/Z/Tag+Taxonomy).

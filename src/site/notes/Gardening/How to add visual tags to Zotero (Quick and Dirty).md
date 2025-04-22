@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-add-visual-tags-to-zotero-quick-and-dirty/","created":"2024-09-27T11:51:21.000+08:00","updated":"2025-02-12T08:39:35.866+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-add-visual-tags-to-zotero-quick-and-dirty/","created":"2024-09-27T11:51:21.000+08:00","updated":"2025-02-12T08:39:35.000+08:00"}
 ---
 
 [[Gardening/My Zotero Tag Taxonomy\|My Zotero Tag Taxonomy]]

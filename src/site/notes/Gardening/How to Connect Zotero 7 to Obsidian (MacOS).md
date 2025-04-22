@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.000+08:00","updated":"2025-02-11T16:17:51.227+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.000+08:00","updated":"2025-02-11T16:17:51.000+08:00"}
 ---
 
 
