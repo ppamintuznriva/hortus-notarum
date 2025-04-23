@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-04-23T07:36:25.877+08:00"}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-04-23T10:06:57.194+08:00"}
 ---
 
 ![riva pfp.png|300](/img/user/Extras/Images/riva%20pfp.png)
 ## Paula Pamintuan-Riva 
+[ORCID iD 0009-0001-3673-6488](https://orcid.org/0009-0001-3673-6488) | [Google Scholar](https://scholar.google.com/citations?user=X8FIxOsAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/paula-pamintuan-riva-832b7b267/)
 
 My name is Paula (she/her, they/them) and I am an academic researcher from Baguio City, Philippines. I have worked at the [Cordillera Studies Center](https://csc3.upb.edu.ph/) of the [University of the Philippines Baguio](https://www.upb.edu.ph/) since 2012, and my focus area is in academic publishing. I like to dabble in a variety of things, but it feels like my gravitational center always lies in editing and publications. 
 
@@ -20,7 +21,7 @@ I am married and a parent. 🌱
 ✉️ mmpamintuanriva@up.edu.ph
 ## Career Experience
 - University Researcher I, University of the Philippines Baguio Cordillera Studies Center (2012-present)
-- Assistant Editor, [*The Cordillera Review: Journal of Philippine Culture and Society*](https://thecordillerareview.upb.edu.ph/) (concurrent with UR role)
+- Editorial Assistant, [*The Cordillera Review: Journal of Philippine Culture and Society*](https://thecordillerareview.upb.edu.ph/) (concurrent with UR role)
 - Teacher/Faculty Member in English and Art History in secondary to undergraduate level classes (2011-2012)
 - Podcast Writer, Editor and Co-Host, [CSC@40: CSC Fieldnotes Podcast](https://open.spotify.com/show/2oDR93FhlZ8qDrXzx5qXHt)(2020–2023)
 ## Education/Qualifications
@@ -35,7 +36,6 @@ I am married and a parent. 🌱
 **2017.** "Writing Red Letters: A Student’s Tribute to Sir Del,” in _Hoy, Boy! A Festschrift for Delfin Tolentino, Jr._, edited by B. Tapang and G. Subido. Baguio City: Cordillera Studies Center.
 **2013.** [“The Indigenous in the Cordillera Studies Center of UP Baguio.”](https://drive.google.com/file/d/1FF2mLJZV4VzSCl3ZmFjBUKxn3MQBjqMg/view?usp=sharing) Co-authored with R. Rovillos. In *Unsettling Discourses: The Theory and Practice of Indigenous Studies.* Baguio City: Cordillera Studies Center.
 **2008.** "[Floating & falling in the Youki Singe Tea Room.](https://www.philstar.com/lifestyle/sunday-life/2008/05/11/61448/floating-amp-falling-youki-singe-tea-room)" Published in *The Philippine Star*, 11 May 2008, and awarded Honorable Mention in the [My Favorite Book Awards 2008](https://www.philstar.com/lifestyle/sunday-life/2009/03/15/448205/poetry-reading-laughter-my-favorite-book-awards-2008). 
-
 ## WIP (Works-in-Progress)
 “A Melting Pot Runneth Over? Considering the Contradictions of Heritage in Baguio City, Philippines” (working title). Revising for publication.
 
