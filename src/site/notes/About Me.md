@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-04-22T16:46:53.986+08:00"}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-04-23T07:36:25.877+08:00"}
 ---
 
 ![riva pfp.png|300](/img/user/Extras/Images/riva%20pfp.png)
@@ -65,8 +65,10 @@ I am married and a parent. 🌱
 **2020.** "Tighten the Knot of Our Blanket Slings: A Semiotic Reading of Ubba and the Colonial Representation of Childrearing." 3rd Cordillera Studies Writeshop. Baguio City. 11-13 March 2020.  
 **2014.** “Happiness is not Always Fun: Social Commentary and Melodrama in Fassbinder’s *Ali, or Fear Eats the Soul*,” J. Elizalde Navarro National Workshop in Criticism on the Arts and Humanities, Baguio City, 25-31 May 2014.
  
-## Academic Membership
-**2024.** Full Individual Member, [Association of Critical Heritage Studies (ACHS)](https://www.criticalheritagestudies.org/membership-directory#!biz/id/6509b0463ac000fa390d9a75)
+## Academic Memberships
+**2025.** Member (Student), [New Zealand Historical Association](https://nzha.org.nz/).
+**2025.** Member. Child and Youth Historical Alliance (ChiYHA), FKA the Australia and New Zealand Children’s History Reading Group.
+**2023–2024.** Full Individual Member, [Association of Critical Heritage Studies (ACHS)](https://www.criticalheritagestudies.org/membership-directory#!biz/id/6509b0463ac000fa390d9a75)
 
 ---
 Profile photo by Blaze Sy of Hijo de Foto Studios, Baguio City.
