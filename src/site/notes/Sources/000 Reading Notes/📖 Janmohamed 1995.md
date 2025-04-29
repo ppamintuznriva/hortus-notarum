@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/000-reading-notes/janmohamed-1995/","title":"The Economy of Manichean Allegory","contentClasses":"literature-note","created":"2025-04-25T08:12:05.899+08:00","updated":"2025-04-29T13:09:43.862+08:00"}
+{"dg-publish":true,"permalink":"/sources/000-reading-notes/janmohamed-1995/","title":"The Economy of Manichean Allegory","contentClasses":"literature-note","created":"2025-04-25T08:12:05.899+08:00","updated":"2025-04-29T13:13:43.396+08:00"}
 ---
 
 
@@ -19,6 +19,8 @@ Manichean means to view matters in terms of simple black and white. JanMohamed p
 
 ## References to Explore
 
+---
+
 
 
 
@@ -29,7 +31,6 @@ Manichean means to view matters in terms of simple black and white. JanMohamed p
 > **Tags**: #ObsCite
 > 
 > **Collections**:: 
-
 
 > [!abstract]-
 > 
