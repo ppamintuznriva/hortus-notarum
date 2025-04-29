@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","contentClasses":"cards","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.000+08:00","updated":"2025-04-23T10:09:27.820+08:00"}
+{"dg-publish":true,"permalink":"/home/","contentClasses":"cards","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.000+08:00","updated":"2025-04-29T13:07:16.551+08:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 
 My name is Paula/Z (she/her, they/them), and I am a researcher and editor based in Baguio City, Philippines. If you're looking for my CV, it's [[About Me\|here]].
 
-This space serves as a repository of my living thoughts, things I'm learning, rabbit holes I fall into, etc. Not quite a blog in the usual sense, here you will find initial thoughts, growing ideas, notes on stuff I am reading, maybe some essays here and there, all in the spirit of [learning in public](https://www.swyx.io/learn-in-public). 
+This is a place for my living thoughts, things I'm learning, rabbit holes I fall into, etc. Not quite a blog in the usual sense, here you will find initial thoughts, growing ideas, notes on stuff I am reading, maybe some essays here and there, all in the spirit of [learning in public](https://www.swyx.io/learn-in-public). 
 
 Like most digital gardeners, I write here mostly for myself—my future self, rather—from my personal Obsidian vault (my greenhouse). While the garden *is* curated to a certain point, it's not always organized (and that's the beauty of it!). 
 # Lately, as opposed to [[Now\|Now]]
@@ -62,16 +62,14 @@ But, like, what are you up to [[Now\|now]]?
 
 [[Atlas/📋 What I Read in 2025\|📋 What I Read in 2025]]
 
-| Cover                                                                                                                                                                                                    | Title                                                                                                                                       | Yr   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| ![cover\|80](\-)                                                                                                                                                                                         | Performing Tourism: Maya Women's Strategies                                                                                                 | 2004 |
-| ![cover\|80](https://cdn.aaa.org.hk/w500/physical_collection/2589E59-893B-43FB-8D96-5BA2B49A3.jpg)                                                                                                       | Baguio Between Two Wars: The Creation and Destruction of a Summer Capital                                                                   | 2002 |
-| ![cover\|80](https://i1.rgstatic.net/publication/240530112_The_Utility_of_Discourse_Analysis_to_Heritage_Studies_The_Burra_Charter_and_Social_Inclusion/links/561757a208ae1a8880036cb2/largepreview.png) | The Utility of Discourse Analysis to Heritage Studies: The Burra Charter and Social Inclusion                                               | 2006 |
-| ![cover\|80](https://talapamana.ncca.gov.ph/images/2022/07/04/o1.jpg)                                                                                                                                    | Cultural Mapping Toolkit: A Guide for Participatory Cultural Mapping in Local Communities                                                   | 2019 |
-| ![cover\|80](https://images.routledge.com/common/jackets/crclarge/978034067/9780340677780.jpg)                                                                                                           | A geography of heritage : power, culture, and economy                                                                                       | 2000 |
-| ![cover\|80](https://s3-eu-west-1.amazonaws.com/ppreviews-wellington-2529547045/37397038/thumb.png)                                                                                                      | Towards Spatio-Epistemic Justice in the (post) Settler-colonial Cityscape: Indigenous Urban Heritage in //hui !gaeb and Te Whanganui-a-Tara | 2022 |
-| ![cover\|80](https://www.e-elgar.com/shop/media/catalog/product/cache/01c740ac49768798d3ac9bd0cdac340f/9/7/9781788110730.jpg)                                                                            | Chapter 1: Rethinking heritage, but ‘from below’                                                                                            | 2018 |
-| ![cover\|80](https://images.routledge.com/common/jackets/crclarge/978113825/9781138255029.jpg)                                                                                                           | Heritage from Below                                                                                                                         | 2016 |
-| ![cover\|80](\-)                                                                                                                                                                                         | Urban Economies and Spatial Governmentalities in the World Heritage City of Antigua, Guatemala                                              | 2015 |
+| Cover                                                                                                                                                                                                    | Title                                                                                          | Yr   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---- |
+| ![cover\|80](\-)                                                                                                                                                                                         | Performing Tourism: Maya Women's Strategies                                                    | 2004 |
+| ![cover\|80](https://cdn.aaa.org.hk/w500/physical_collection/2589E59-893B-43FB-8D96-5BA2B49A3.jpg)                                                                                                       | Baguio Between Two Wars: The Creation and Destruction of a Summer Capital                      | 2002 |
+| ![cover\|80](https://i1.rgstatic.net/publication/240530112_The_Utility_of_Discourse_Analysis_to_Heritage_Studies_The_Burra_Charter_and_Social_Inclusion/links/561757a208ae1a8880036cb2/largepreview.png) | The Utility of Discourse Analysis to Heritage Studies: The Burra Charter and Social Inclusion  | 2006 |
+| ![cover\|80](https://talapamana.ncca.gov.ph/images/2022/07/04/o1.jpg)                                                                                                                                    | Cultural Mapping Toolkit: A Guide for Participatory Cultural Mapping in Local Communities      | 2019 |
+| ![cover\|80](https://images.routledge.com/common/jackets/crclarge/978034067/9780340677780.jpg)                                                                                                           | A geography of heritage : power, culture, and economy                                          | 2000 |
+| ![cover\|80](https://www.e-elgar.com/shop/media/catalog/product/cache/01c740ac49768798d3ac9bd0cdac340f/9/7/9781788110730.jpg)                                                                            | Chapter 1: Rethinking heritage, but ‘from below’                                               | 2018 |
+| ![cover\|80](\-)                                                                                                                                                                                         | Urban Economies and Spatial Governmentalities in the World Heritage City of Antigua, Guatemala | 2015 |
 
 { .block-language-dataview}
