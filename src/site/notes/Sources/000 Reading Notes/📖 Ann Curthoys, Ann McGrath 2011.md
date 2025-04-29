@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/000-reading-notes/ann-curthoys-ann-mc-grath-2011/","title":"How to Write History that People Want to Read","contentClasses":"literature-note","tags":["🤓"],"created":"2025-04-29T09:20:14.412+08:00","updated":"2025-04-29T14:30:40.646+08:00"}
+{"dg-publish":true,"permalink":"/sources/000-reading-notes/ann-curthoys-ann-mc-grath-2011/","title":"How to Write History that People Want to Read","contentClasses":"literature-note","tags":["🤓"],"created":"2025-04-29T09:20:14.412+08:00","updated":"2025-04-29T14:33:30.611+08:00"}
 ---
 
 
@@ -27,9 +27,7 @@ J.H. Hexter, ‘The rhetoric of history,’ *History and Theory* 6, no. 1 (1967)
 
 
 > [!info]- Info 🔗 
-> :::hidden 
-> [**Zotero**](zotero://select/library/items/CN8BLKE9) | [**PDF-1**](file:////Users/upb-csc-paula/Zotero/storage/JUA5ATX7/Curthoys%20and%20McGrath%20-%202011%20-%20How%20to%20Write%20History%20that%20People%20Want%20to%20Read.pdf)
->:::
+
 >**Bibliography**: Curthoys, Ann, and Ann McGrath. 2011. _How to Write History That People Want to Read_. London: Palgrave Macmillan UK. [https://doi.org/10.1007/978-0-230-30496-3](https://doi.org/10.1007/978-0-230-30496-3).
 > 
 > **Authors**::  [[03 - Source notes/People/Ann Curthoys\|Ann Curthoys]],  [[03 - Source notes/People/Ann McGrath\|Ann McGrath]]
@@ -37,7 +35,6 @@ J.H. Hexter, ‘The rhetoric of history,’ *History and Theory* 6, no. 1 (1967)
 > **Tags**: 
 > 
 > **Collections**:: 
-
 
 > [!abstract]-
 > 
