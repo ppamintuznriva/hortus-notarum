@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/000-reading-notes/janmohamed-1995/","title":"The Economy of Manichean Allegory","contentClasses":"literature-note","created":"2025-04-25T08:12:05.899+08:00","updated":"2025-04-25T17:02:22.772+08:00"}
+{"dg-publish":true,"permalink":"/sources/000-reading-notes/janmohamed-1995/","title":"The Economy of Manichean Allegory","contentClasses":"literature-note","created":"2025-04-25T08:12:05.899+08:00","updated":"2025-04-29T13:09:43.862+08:00"}
 ---
 
 
@@ -22,8 +22,6 @@ Manichean means to view matters in terms of simple black and white. JanMohamed p
 
 
 
-> [!info]- Info 🔗 [**Zotero**](zotero://select/library/items/4AKIJNED) | [**PDF-1**](file:////Users/upb-csc-paula/Zotero/storage/AP4X9TIW/Janmohamed%20-%201995%20-%20The%20Economy%20of%20Manichean%20Allegory.pdf)
->
 >**Bibliography**: Janmohamed, Abdul. 1995. “The Economy of Manichean Allegory.” In _The Post-Colonial Studies Reader_, edited by Bill Ashcroft, Gareth Griffiths, and Helen Tiffin. London and New York: Routledge.
 > 
 > **Authors**::  [[03 - Source notes/People/Abdul Janmohamed\|Abdul Janmohamed]],  [[03 - Source notes/People/ \| ]],  [[03 - Source notes/People/Gareth Griffiths\|Gareth Griffiths]],  [[03 - Source notes/People/Helen Tiffin\|Helen Tiffin]]
