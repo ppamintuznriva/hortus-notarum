@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/000-reading-notes/ann-curthoys-ann-mc-grath-2011/","title":"How to Write History that People Want to Read","contentClasses":"literature-note","tags":["🤓"],"created":"2025-04-29T09:20:14.412+08:00","updated":"2025-04-29T14:37:06.966+08:00"}
+{"dg-publish":true,"permalink":"/sources/000-reading-notes/ann-curthoys-ann-mc-grath-2011/","title":"How to Write History that People Want to Read","contentClasses":"literature-note","tags":["🤓"],"created":"2025-04-29T09:20:14.412+08:00","updated":"2025-05-07T10:18:14.916+08:00"}
 ---
 
 
@@ -24,13 +24,19 @@ J.H. Hexter, ‘The rhetoric of history,’ *History and Theory* 6, no. 1 (1967)
 
 Marc Bloch, *The Historian's Craft*
 
+Nancy Shoemaker, ed., *Clearing a Path: Theoretical approaches to the past in Native American studies* (New York: Routledge, 2002)
+
+Nancy Shoemaker, ed., *Negotiators of Change: Historical perspectives on Native American women* (New York: Routledge, 1995)
+
+Peter Nabokov, *A Forest of Time: American Indian ways of history* (Cambridge: Cambridge University Press, 2002).
+
 
 
 
 > [!info]- Info 🔗 
 >**Bibliography**: Curthoys, Ann, and Ann McGrath. 2011. _How to Write History That People Want to Read_. London: Palgrave Macmillan UK. [https://doi.org/10.1007/978-0-230-30496-3](https://doi.org/10.1007/978-0-230-30496-3).
 > 
-> **Authors**::  [[03 - Source notes/People/Ann Curthoys\|Ann Curthoys]],  [[03 - Source notes/People/Ann McGrath\|Ann McGrath]]
+> **Authors**::  [[Sources/03 - Source notes 1/People/Ann Curthoys\|Ann Curthoys]],  [[03 - Source notes/People/Ann McGrath\|Ann McGrath]]
 > 
 > **Tags**: 
 > 

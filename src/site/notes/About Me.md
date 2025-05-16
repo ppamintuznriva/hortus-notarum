@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-04-23T10:06:57.194+08:00"}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-05-16T15:56:27.450+08:00"}
 ---
 
 ![riva pfp.png|300](/img/user/Extras/Images/riva%20pfp.png)
@@ -12,7 +12,7 @@ My professional work involves production of [The Cordillera Review](https://thec
 
 My research interests include cultural studies, postcolonial discourses of childrearing, critical heritage studies, studies of childhood and empire.
 
-My non-research interests include mechanical keyboards, personal knowledge management, makerspaces/workspaces, etc. 
+My non-research interests include mechanical keyboards, personal knowledge management, sewing, makerspaces/workspaces, etc. 
 
 I have been involved in a variety of advocacies, including maternal health, babywearing, breastfeeding, mental health, neurodivergence and disability, unionism, and anti-imperialism.
 
