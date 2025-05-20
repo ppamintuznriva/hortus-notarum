@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-05-20T10:19:05.301+08:00"}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-05-20T10:24:29.441+08:00"}
 ---
 
 ![riva pfp.png|300](/img/user/Extras/Images/riva%20pfp.png)
@@ -39,6 +39,12 @@ I am married and a parent. 🌱
 **2008.** "[Floating & falling in the Youki Singe Tea Room.](https://www.philstar.com/lifestyle/sunday-life/2008/05/11/61448/floating-amp-falling-youki-singe-tea-room)" Published in *The Philippine Star*, 11 May 2008, and awarded Honorable Mention in the [My Favorite Book Awards 2008](https://www.philstar.com/lifestyle/sunday-life/2009/03/15/448205/poetry-reading-laughter-my-favorite-book-awards-2008). 
 ## WIP (Works-in-Progress)
 “‘Shall I be Mother?’ Mythifying Motherhood in Breastfeeding Campaign Materials from the Philippines post-RA 10028.” Under review.
+## Paper Presentations/Conferences
+**2024.** "Preserving an Intangible Sky: (Distant and Close) Narratives of Climate in Baguio's Cultural Landscape." [ADI Conference 2024: Remaking Futures: Justice, Equality and Global Flourishing](https://adi.deakin.edu.au/event/adi-conference-2024-remaking-futures-justice-equality-and-global-flourishing/). Deakin University, Melbourne VIC, Australia. 25–26 November 2024
+**2021.** "Profiling State Universities and Colleges (SUCs) in the Cordillera on the Integration of Indigenous Peoples Education in Higher Education Curricula." 3rd International Conference on Cordillera Studies. Baguio City. July 2021.
+**2018.** "Bringing Up Baby (Under the Colonial Gaze): Children and Childrearing through Colonial Photographs of Traditional Babywearing in the Cordillera, Northern Philippines." 11th Annual International Conference Society for the Study of Childhood in the Past. Vienna, Austria. 20–22 September 2018.
+**2016.** "Locating the Indigenous in the Baguio Heritage Project." 1st Baguio Heritage Forum, University of the Philippines Baguio
+**2013.** “An Other Othered by Other Others: Manila Luzon and the Irreverence of Drag." Inter-Asia Cultural Studies Graduate Conference. National University of Singapore. 1–2 July 2013.
 ## Other Editing Work
 **2016.** [Not Your World Music: Noise in South East Asia](https://www.academia.edu/28481619/NOT_YOUR_WORLD_MUSIC_Noise_in_South_East_Asia_front_matters_?auto=download). C. Fermont and D. della Faille. Berlin: Syrphe. Ottawa: [Hushush](http://words.hushush.com/).   
 **2013.** _Unsettling Discourses: The Theory and Practice of Indigenous Studies._ Baguio City: Cordillera Studies Center.
@@ -55,11 +61,7 @@ I am married and a parent. 🌱
 **2023**. "Rev UP Your Research: Tips and Tricks for the Fourth Industrial Revolution." Lecture-training delivered for Lyceum Philippines University, College of Arts and Sciences faculty. Baguio City, Philippines.
 **2023.** Resource Speaker. “The Beat Goes On: A Crash Course on Film, Plot and Structure.” Lecture delivered for Grade 12 Senior High School Students, Pinsao National High School. Baguio City, Philippines. 
 **2023.** Evaluator. 2nd College of Social Sciences (Benguet State University) Students' Research Congress. La Trinidad, Benguet.
-## Paper Presentations/Conferences
-**2021.** "Profiling State Universities and Colleges (SUCs) in the Cordillera on the Integration of Indigenous Peoples Education in Higher Education Curricula." 3rd International Conference on Cordillera Studies. Baguio City. July 2021.
-**2018.** "Bringing Up Baby (Under the Colonial Gaze): Children and Childrearing through Colonial Photographs of Traditional Babywearing in the Cordillera, Northern Philippines." 11th Annual International Conference Society for the Study of Childhood in the Past. Vienna, Austria. 20–22 September 2018.
-**2016.** "Locating the Indigenous in the Baguio Heritage Project." 1st Baguio Heritage Forum, University of the Philippines Baguio
-**2013.** “An Other Othered by Other Others: Manila Luzon and the Irreverence of Drag." Inter-Asia Cultural Studies Graduate Conference. National University of Singapore. 1–2 July 2013.
+
 ## Workshop Fellowships
 **2020.** "Tighten the Knot of Our Blanket Slings: A Semiotic Reading of Ubba and the Colonial Representation of Childrearing." 3rd Cordillera Studies Writeshop. Baguio City. 11-13 March 2020.  
 **2014.** “Happiness is not Always Fun: Social Commentary and Melodrama in Fassbinder’s *Ali, or Fear Eats the Soul*,” J. Elizalde Navarro National Workshop in Criticism on the Arts and Humanities, Baguio City, 25-31 May 2014.
