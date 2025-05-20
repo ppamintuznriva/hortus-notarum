@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-05-16T15:56:27.450+08:00"}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-05-20T10:02:28.796+08:00"}
 ---
 
 ![riva pfp.png|300](/img/user/Extras/Images/riva%20pfp.png)
@@ -19,7 +19,7 @@ I have been involved in a variety of advocacies, including maternal health, baby
 I am married and a parent. 🌱
 
 ✉️ mmpamintuanriva@up.edu.ph
-## Career Experience
+## Career
 - University Researcher I, University of the Philippines Baguio Cordillera Studies Center (2012-present)
 - Editorial Assistant, [*The Cordillera Review: Journal of Philippine Culture and Society*](https://thecordillerareview.upb.edu.ph/) (concurrent with UR role)
 - Teacher/Faculty Member in English and Art History in secondary to undergraduate level classes (2011-2012)
@@ -33,12 +33,11 @@ I am married and a parent. 🌱
 **2010.** Outstanding Thesis Awardee (Undergraduate). College of Arts and Communication, University of the Philippines Baguio.
 ## Publications
 **2025.** “‘Tighten the knot of our blanket slings’: The Endurance of Babywearing Practice and the Visual Politics of Childhood in the Cordillera Region of North Luzon, Philippines.” 2025. *Childhood in the Past* 18 (1): 94–113. https://doi.org/10.1080/17585716.2025.2471139
+**2024.** [“A Melting Pot Runneth Over? Contradictions of Heritage in Baguio City, Philippines.”]([https://thecordillerareview.upb.edu.ph/abstract/a-melting-pot-runneth-over-contradictions-of-heritage-in-baguio-city-philippines/](https://thecordillerareview.upb.edu.ph/abstract/a-melting-pot-runneth-over-contradictions-of-heritage-in-baguio-city-philippines/)) _The Cordillera Review_ (14) I and II: 195–217. 
 **2017.** "Writing Red Letters: A Student’s Tribute to Sir Del,” in _Hoy, Boy! A Festschrift for Delfin Tolentino, Jr._, edited by B. Tapang and G. Subido. Baguio City: Cordillera Studies Center.
 **2013.** [“The Indigenous in the Cordillera Studies Center of UP Baguio.”](https://drive.google.com/file/d/1FF2mLJZV4VzSCl3ZmFjBUKxn3MQBjqMg/view?usp=sharing) Co-authored with R. Rovillos. In *Unsettling Discourses: The Theory and Practice of Indigenous Studies.* Baguio City: Cordillera Studies Center.
 **2008.** "[Floating & falling in the Youki Singe Tea Room.](https://www.philstar.com/lifestyle/sunday-life/2008/05/11/61448/floating-amp-falling-youki-singe-tea-room)" Published in *The Philippine Star*, 11 May 2008, and awarded Honorable Mention in the [My Favorite Book Awards 2008](https://www.philstar.com/lifestyle/sunday-life/2009/03/15/448205/poetry-reading-laughter-my-favorite-book-awards-2008). 
 ## WIP (Works-in-Progress)
-“A Melting Pot Runneth Over? Considering the Contradictions of Heritage in Baguio City, Philippines” (working title). Revising for publication.
-
 “‘Shall I be Mother?’ Mythifying Motherhood in Breastfeeding Campaign Materials from the Philippines post-RA 10028.” Under review.
 ## Other Editing Work
 **2016.** [Not Your World Music: Noise in South East Asia](https://www.academia.edu/28481619/NOT_YOUR_WORLD_MUSIC_Noise_in_South_East_Asia_front_matters_?auto=download). C. Fermont and D. della Faille. Berlin: Syrphe. Ottawa: [Hushush](http://words.hushush.com/).   
