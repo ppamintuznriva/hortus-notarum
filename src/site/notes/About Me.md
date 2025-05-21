@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-05-20T10:24:29.441+08:00"}
+{"dg-publish":true,"permalink":"/about-me/","title":"Curriculum Vitae","dgShowToc":true,"created":"2024-07-19T20:41:16.000+08:00","updated":"2025-05-20T10:24:33.892+08:00"}
 ---
 
 ![riva pfp.png|300](/img/user/Extras/Images/riva%20pfp.png)
@@ -40,7 +40,7 @@ I am married and a parent. 🌱
 ## WIP (Works-in-Progress)
 “‘Shall I be Mother?’ Mythifying Motherhood in Breastfeeding Campaign Materials from the Philippines post-RA 10028.” Under review.
 ## Paper Presentations/Conferences
-**2024.** "Preserving an Intangible Sky: (Distant and Close) Narratives of Climate in Baguio's Cultural Landscape." [ADI Conference 2024: Remaking Futures: Justice, Equality and Global Flourishing](https://adi.deakin.edu.au/event/adi-conference-2024-remaking-futures-justice-equality-and-global-flourishing/). Deakin University, Melbourne VIC, Australia. 25–26 November 2024
+**2024.** "Preserving an Intangible Sky: (Distant and Close) Narratives of Climate in Baguio's Cultural Landscape." [ADI Conference 2024: Remaking Futures: Justice, Equality and Global Flourishing](https://adi.deakin.edu.au/event/adi-conference-2024-remaking-futures-justice-equality-and-global-flourishing/). Deakin University, Melbourne VIC, Australia. 25–26 November 2024.
 **2021.** "Profiling State Universities and Colleges (SUCs) in the Cordillera on the Integration of Indigenous Peoples Education in Higher Education Curricula." 3rd International Conference on Cordillera Studies. Baguio City. July 2021.
 **2018.** "Bringing Up Baby (Under the Colonial Gaze): Children and Childrearing through Colonial Photographs of Traditional Babywearing in the Cordillera, Northern Philippines." 11th Annual International Conference Society for the Study of Childhood in the Past. Vienna, Austria. 20–22 September 2018.
 **2016.** "Locating the Indigenous in the Baguio Heritage Project." 1st Baguio Heritage Forum, University of the Philippines Baguio
