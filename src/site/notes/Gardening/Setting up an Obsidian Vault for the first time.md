@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/setting-up-an-obsidian-vault-for-the-first-time/","created":"2025-05-22T07:40:48.649+08:00","updated":"2025-06-30T07:46:42.238+08:00"}
+{"dg-publish":true,"permalink":"/gardening/setting-up-an-obsidian-vault-for-the-first-time/","created":"2025-05-22T07:40:48.649+08:00","updated":"2025-07-01T14:04:12.495+08:00"}
 ---
 
 # General
@@ -42,4 +42,11 @@
 - Core plug-ins that are OK but have community counterparts that are a bit better (in parenthesis)
 	- **Templates** (**Templater**)
 	- **Word count** (**Better Word Count**)
-# Community Plug-ins I Use
+# Community Plug-ins I Use (ongoing)
+- For customizing themes and improving the work interface
+	- **Minimal Theme Settings** (self-explanatory)
+	- **Style Settings** - available settings will change depending on what plugins and themes
+	- **Workspaces Plus** - **Workspaces** Core Plugin must be enabled. This lets you save workspaces for different projects.
+- For citations and exporting final outputs
+	- **Zotero Integration** - essential for academic work, links Zotero and Obsidian. Enables easy creation of Reading Notes and export of annotations from Zotero to Obsidian. Also, enables easy insertion of parenthetical citations in Obsidian without needing to go back to Zotero.
+	- **Pandoc Reference List**  - 
