@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.000+08:00","updated":"2025-07-08T14:33:18.819+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.000+08:00","updated":"2025-07-10T07:31:25.811+08:00"}
 ---
 
 
@@ -62,9 +62,9 @@ Below is an example of a Reading Note using the Template we saved earlier.
 
 You can also call up the Zotero search bar in Obsidian to insert parenthetical (also known as in-text) citations. If you set the  'Cmd + Ctrl + C' for inserting citations earlier, you can use that or press 'Cmd + P' to bring up the Command Palette and search for the command for inserting citations. After that, just search for the reference you need and it will be inserted with the correct format into your text. 
 
-![[Screen Recording 2025-07-08 at 9.34.56 AM.mov]]
+
 
 Keep in mind that this method does not enable the automatic generation of a reference list based on the parenthetical citations already in the text. To do this, you will need the **[Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list)** plugin in Obsidian. Alternatively, this feature is already available on Google Docs and MS Word, with the caveat that these two may not be the best apps for non-linear writing and thinking.
 
-
+![Screen Recording 2025-07-08 at 9.34.56 AM (1).gif](/img/user/Extras/Screen%20Recording%202025-07-08%20at%209.34.56%20AM%20(1).gif)
 
