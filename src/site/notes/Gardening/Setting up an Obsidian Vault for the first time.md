@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/setting-up-an-obsidian-vault-for-the-first-time/","created":"2025-05-22T07:40:48.649+08:00","updated":"2025-07-01T14:04:12.495+08:00"}
+{"dg-publish":true,"permalink":"/gardening/setting-up-an-obsidian-vault-for-the-first-time/","created":"2025-05-22T07:40:48.649+08:00","updated":"2025-07-08T09:41:32.971+08:00"}
 ---
 
 # General
