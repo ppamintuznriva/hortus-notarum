@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-set-up-pandoc-and-pandoc-reference-list-plugin-for-obsidian/","created":"2025-07-08T14:55:22.062+08:00","updated":"2025-07-09T16:05:18.669+08:00"}
+{"dg-publish":true,"permalink":"/how-to-set-up-pandoc-and-pandoc-reference-list-plugin-for-obsidian/","created":"2025-07-08T14:55:22.062+08:00","updated":"2025-07-10T07:35:17.220+08:00"}
 ---
 
 After you have done all the needed steps to connect Zotero and Obsidian, you will be able insert citations easily while you write in Obsidian by simply calling up your Zotero library through the Command Palette or through one of your assigned [[Gardening/Setting up an Obsidian Vault for the first time#Hotkeys\|Hotkeys]].
@@ -12,8 +12,7 @@ Notwithstanding all of these benefits, it requires (you guessed it) a bit of set
 
 Here's a video of what it should look like after you're done (shameless plug of my own article, sorry not sorry?):
 
-![[Screen Recording 2025-07-08 at 10.50.20 AM.mov]]
-
+![Screen Recording 2025-07-08 at 10.50.20 AM.gif](/img/user/Extras/Screen%20Recording%202025-07-08%20at%2010.50.20%20AM.gif)
 # Pandoc and Pandoc Reference List Plugin Setup
 
 This plugin requires installing [Pandoc](https://github.com/jgm/pandoc/releases/tag/3.7.0.2) on your system. The easiest way is to go to their GitHub and download the appropriate installer. Again, Choose the arm64-macOS package if you're using Apple Silicone chips (M1, M2, etc.) and choose the x86 package for Intel/older chips. Just follow the prompts and you'll be good to go. Check for correct installation on Macs by opening a Terminal window (CMD + Space then search for Terminal) and typing:
