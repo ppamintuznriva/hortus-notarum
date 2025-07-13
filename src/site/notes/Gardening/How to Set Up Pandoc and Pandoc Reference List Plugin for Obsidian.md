@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-set-up-pandoc-and-pandoc-reference-list-plugin-for-obsidian/","created":"2025-07-08T14:55:22.000+08:00","updated":"2025-07-13T16:51:35.600+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-set-up-pandoc-and-pandoc-reference-list-plugin-for-obsidian/","created":"2025-07-08T14:55:22.000+08:00","updated":"2025-07-13T16:56:08.962+08:00"}
 ---
 
 After you have done all the needed steps to connect Zotero and Obsidian, you will be able insert citations easily while you write in Obsidian by simply calling up your Zotero library through the Command Palette or through one of your assigned [[Gardening/Setting up an Obsidian Vault for the first time#Hotkeys\|Hotkeys]].
@@ -32,7 +32,7 @@ Once it's been enabled, you have to set your settings:
 which pandoc
 ```
 
-- **Path to Bibliography File**: Remember when you [[Gardening/How to Connect Zotero 7 to Obsidian (MacOS)\|How to Connect Zotero 7 to Obsidian (MacOS)]][[Gardening/How to Connect Zotero 7 to Obsidian (MacOS)#2. Export your Library as a .bib file.\|exported your Zotero library into a .bib file]]? You did that when you [[Gardening/How to Connect Zotero 7 to Obsidian (MacOS)\|connected Zotero and Obsidian]]. Anyway (on MacOS), look for that file again on Finder and right-click, then press the Alt/Option key. You should see 'Copy [your file's path] as Pathname' in the options. Click that and Paste that Pathname into this option field.
+- **Path to Bibliography File**: Remember when you [[Gardening/How to Connect Zotero 7 to Obsidian (MacOS)#2. Export your Library as a .bib file.\|exported your Zotero library into a .bib file]]? You did that when you [[Gardening/How to Connect Zotero 7 to Obsidian (MacOS)\|connected Zotero and Obsidian]]. Anyway (on MacOS), look for that file again on Finder and right-click, then press the Alt/Option key. You should see 'Copy [your file's path] as Pathname' in the options. Click that and Paste that Pathname into this option field.
 - **Pull Bibliography from Zotero**: I keep this toggled on (just in case the above path fails for some reason. I might just be paranoid.)
 - **Zotero Port**: I keep this as the default.
 - **Libraries to Include in Bibliography**: You may have several options here depending on how many Libraries or Group Libraries you have. Select as you see fit.
