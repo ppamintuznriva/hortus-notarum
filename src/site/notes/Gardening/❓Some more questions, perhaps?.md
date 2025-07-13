@@ -7,6 +7,6 @@ Now, you might have some questions, such as:
 [[Gardening/What tools do you use?\|What tools do you use?]]
 [[Gardening/WTWF? (What's the workflow?)\|WTWF? (What's the workflow?)]]
 [[Gardening/What is epistemic disclosure?\|What is epistemic disclosure?]]
-[[What do these 🪨,🫛,🌱,🪴,🌳 mean? (aka a digital garden legend of sorts)\|What do these 🪨,🫛,🌱,🪴,🌳 mean? (aka a digital garden legend of sorts)]]
+[[Gardening/What do these 🪨,🫛,🌱,🪴,🌳 mean? (aka a digital garden legend of sorts)\|What do these 🪨,🫛,🌱,🪴,🌳 mean? (aka a digital garden legend of sorts)]]
 [[Gardening/How can visitors give feedback and how will you respond?\|How can visitors give feedback and how will you respond?]]
 But, like, what are you up to [[Now\|now]]?
