@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/000-reading-notes/smith-2022/","title":"Heritage, the power of the past, and the politics of (Mis)Recognition","tags":["✅","read2024"],"created":"2024-06-17T14:49:45.000+08:00","updated":"2024-08-01T23:03:48.000+08:00"}
+{"dg-publish":true,"permalink":"/sources/000-reading-notes/smith-2022/","title":"Heritage, the power of the past, and the politics of (Mis)Recognition","tags":["✅","read2024"],"created":"2024-06-17T14:49:45.527+08:00","updated":"2024-08-01T23:03:48.081+08:00"}
 ---
 
 

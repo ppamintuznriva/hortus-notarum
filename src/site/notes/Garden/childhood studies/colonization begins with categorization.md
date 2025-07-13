@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/childhood-studies/colonization-begins-with-categorization/","created":"2024-04-29T20:05:56.000+08:00","updated":"2024-07-31T16:21:24.000+08:00"}
+{"dg-publish":true,"permalink":"/garden/childhood-studies/colonization-begins-with-categorization/","created":"2024-04-29T20:05:56.305+08:00","updated":"2024-07-31T16:21:24.255+08:00"}
 ---
 
 > [!annotation-purple] Highlight

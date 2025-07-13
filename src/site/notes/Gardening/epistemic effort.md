@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/epistemic-effort/","created":"2024-07-22T14:37:04.000+08:00","updated":"2024-07-23T10:50:15.000+08:00"}
+{"dg-publish":true,"permalink":"/gardening/epistemic-effort/","created":"2024-07-22T14:37:04.548+08:00","updated":"2024-07-23T10:50:15.149+08:00"}
 ---
 
 

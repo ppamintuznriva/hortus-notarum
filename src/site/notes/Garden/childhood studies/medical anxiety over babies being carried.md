@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/childhood-studies/medical-anxiety-over-babies-being-carried/","created":"2024-03-25T13:17:45.000+08:00","updated":"2024-07-31T16:18:16.000+08:00"}
+{"dg-publish":true,"permalink":"/garden/childhood-studies/medical-anxiety-over-babies-being-carried/","created":"2024-03-25T13:17:45.334+08:00","updated":"2024-07-31T16:18:16.503+08:00"}
 ---
 
 'mass[es] of sores about the ankles' called *ku'−lid* to the fact that most of them were 'carried on their mothers’ backs' [@jenksBontocIgorot1905, 48].

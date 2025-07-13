@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/obsidian-to-ms-word-academic-workflow-ft-the-enhancing-export-plugin/","created":"2025-07-01T14:21:32.702+08:00","updated":"2025-07-09T16:36:11.903+08:00"}
+{"dg-publish":true,"permalink":"/gardening/obsidian-to-ms-word-academic-workflow-ft-the-enhancing-export-plugin/","created":"2025-07-01T14:21:32.000+08:00","updated":"2025-07-09T16:36:11.000+08:00"}
 ---
 
 (aka how to use submit Word files to your supervisors without losing your mind)
@@ -24,7 +24,7 @@ This is what works for me, and this digital garden is mostly me documenting what
 This is assuming that you already have Zotero linked to Obsidian via the [Better Bibtex](https://retorque.re/zotero-better-bibtex/) plugin *and* have Pandoc and the Pandoc Reference List plugin up and running. If you haven't (or you're on a new machine and need to set this up again) you must go to following tutorials first:
 
 - [[Gardening/How to Connect Zotero 7 to Obsidian (MacOS)\|How to Connect Zotero 7 to Obsidian (MacOS)]] 
-- [[How to Set Up Pandoc and Pandoc Reference List Plugin for Obsidian\|How to Set Up Pandoc and Pandoc Reference List Plugin for Obsidian]]
+- [[Gardening/How to Set Up Pandoc and Pandoc Reference List Plugin for Obsidian\|How to Set Up Pandoc and Pandoc Reference List Plugin for Obsidian]]
 
 Follow these instructions first, then come back.
 

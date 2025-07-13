@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/childhood-studies/the-coloniser-will-always-go-back-to-privileging-their-own-experience/","created":"2024-04-30T11:17:17.000+08:00","updated":"2024-07-31T16:21:20.000+08:00"}
+{"dg-publish":true,"permalink":"/garden/childhood-studies/the-coloniser-will-always-go-back-to-privileging-their-own-experience/","created":"2024-04-30T11:17:17.830+08:00","updated":"2024-07-31T16:21:20.782+08:00"}
 ---
 
 'theory is a bias' - De Raedt

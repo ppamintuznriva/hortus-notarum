@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/critical-heritage/hegemony-and-heritage/","created":"2024-06-23T23:42:02.000+08:00","updated":"2024-08-02T07:56:36.000+08:00"}
+{"dg-publish":true,"permalink":"/garden/critical-heritage/hegemony-and-heritage/","created":"2024-06-23T23:42:02.000+08:00","updated":"2024-08-02T07:56:36.787+08:00"}
 ---
 
 > [!cite] 

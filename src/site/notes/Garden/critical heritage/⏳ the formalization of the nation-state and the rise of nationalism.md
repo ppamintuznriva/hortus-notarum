@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/critical-heritage/the-formalization-of-the-nation-state-and-the-rise-of-nationalism/","created":"2024-06-18T15:27:02.000+08:00","updated":"2025-03-17T11:18:52.000+08:00"}
+{"dg-publish":true,"permalink":"/garden/critical-heritage/the-formalization-of-the-nation-state-and-the-rise-of-nationalism/","created":"2024-06-18T15:27:02.160+08:00","updated":"2025-03-17T11:18:52.000+08:00"}
 ---
 
 

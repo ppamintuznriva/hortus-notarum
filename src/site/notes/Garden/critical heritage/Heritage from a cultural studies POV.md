@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/critical-heritage/heritage-from-a-cultural-studies-pov/","created":"2023-09-06T11:06:38.000+08:00","updated":"2024-07-22T14:45:57.000+08:00"}
+{"dg-publish":true,"permalink":"/garden/critical-heritage/heritage-from-a-cultural-studies-pov/","created":"2023-09-06T11:06:38.931+08:00","updated":"2024-07-22T14:45:57.943+08:00"}
 ---
 
 [[1Q What is a post-nation?\|1Q What is a post-nation?]]

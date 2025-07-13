@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/childhood-studies/power-relations-in-the-construction-of-childhood/","created":"2024-05-01T21:26:33.000+08:00","updated":"2024-08-01T22:48:01.000+08:00"}
+{"dg-publish":true,"permalink":"/garden/childhood-studies/power-relations-in-the-construction-of-childhood/","created":"2024-05-01T21:26:33.894+08:00","updated":"2024-08-01T22:48:01.765+08:00"}
 ---
 
 

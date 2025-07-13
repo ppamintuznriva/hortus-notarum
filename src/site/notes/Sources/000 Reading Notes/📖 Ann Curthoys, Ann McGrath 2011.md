@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/000-reading-notes/ann-curthoys-ann-mc-grath-2011/","title":"How to Write History that People Want to Read","contentClasses":"literature-note","tags":["🤓","readingnote"],"created":"2025-04-29T09:20:14.412+08:00","updated":"2025-06-29T13:46:13.000+08:00"}
+{"dg-publish":true,"permalink":"/sources/000-reading-notes/ann-curthoys-ann-mc-grath-2011/","title":"How to Write History that People Want to Read","contentClasses":"literature-note","tags":["🤓","readingnote"],"created":"2025-04-29T09:20:14.000+08:00","updated":"2025-06-29T13:46:13.506+08:00"}
 ---
 
 
