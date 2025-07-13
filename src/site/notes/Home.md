@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","contentClasses":"cards","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.689+08:00","updated":"2025-05-28T11:18:17.000+08:00"}
+{"dg-publish":true,"permalink":"/home/","contentClasses":"cards","tags":["gardenEntry"],"created":"2024-07-19T17:06:08.689+08:00","updated":"2025-07-13T16:40:16.956+08:00"}
 ---
 
 
@@ -18,6 +18,8 @@ I am officially published! Thrilled (and to be honest, relieved) that my article
 ✉️ mmpamintuanriva@up.edu.ph
 
 I had the honor of presenting a paper on [[The Outputs/ADI_Preserving and Intangible Sky/101 Preserving an Intangible Sky (Conference Paper)/📝 Preserving an Intangible Sky/Preserving an Intangible Sky Abstract\|Baguio Climate as Heritage]] at [ADI Conference 2024: Remaking Futures: Justice, Equality and Global Flourishing](https://web-eur.cvent.com/event/4635d67e-11ed-4dca-8ea5-abbf5bc4a709/websitePage:1f2611f7-6b42-4e20-9af0-dbf0491f4f62) on 25-26 November 2024 at the Deakin University Burwood Corporate Center, Melbourne VIC, Australia through funding from the University of the Philippines Baguio Research Dissemination Grant (RDG) and UP System RDG. It was such a fun and lovely experience meeting the folks at ADI, and learning about their research and initiatives for a more equitable future for all. Conference report [[The Outputs/ADI_Preserving and Intangible Sky/ADI Conference 2024 Report\|here]] and video of paper presentation [here](https://drive.google.com/file/d/1qdQOZbroduiKNGyPQR9GLrVR_LjLfxjk/view?fbclid=IwZXh0bgNhZW0CMTEAAR1t5oIDq0vL-i_bruhcB19L6t90Q3YjjMdb7iR8QxlkID1rKVESopm7wqk_aem_DH3M5rQL13CUkIxXRSesbQ).
+
+[[Sources/Welcome to the PhD Meta, aka My First Public(ish) Zotero Library!\|Welcome to the PhD Meta, aka My First Public(ish) Zotero Library!]]
 
 [[Gardening/❓You might be asking how you should use this site\|❓You might be asking how you should use this site]]
 [[Gardening/❓Some more questions, perhaps?\|❓Some more questions, perhaps?]]
