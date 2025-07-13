@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-set-up-pandoc-and-pandoc-reference-list-plugin-for-obsidian/","created":"2025-07-08T14:55:22.000+08:00","updated":"2025-07-13T14:42:40.950+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-set-up-pandoc-and-pandoc-reference-list-plugin-for-obsidian/","created":"2025-07-08T14:55:22.000+08:00","updated":"2025-07-13T16:51:35.600+08:00"}
 ---
 
 After you have done all the needed steps to connect Zotero and Obsidian, you will be able insert citations easily while you write in Obsidian by simply calling up your Zotero library through the Command Palette or through one of your assigned [[Gardening/Setting up an Obsidian Vault for the first time#Hotkeys\|Hotkeys]].
 
-However, as mentioned in that [[Gardening/How to Connect Zotero 7 to Obsidian (MacOS)\|tutorial]], the results of this process are pretty basic and will not enable you to automatically generate Reference Lists (RL) based on the citations that have been inserted in your text body. This is where the **[Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list)** plugin comes in. More on [[Gardening/How to Set Up Pandoc and Pandoc Reference List Plugin for Obsidian\|How to Set Up Pandoc and Pandoc Reference List Plugin for Obsidian]]
+However, as mentioned in my tutorial on [[Gardening/How to Connect Zotero 7 to Obsidian (MacOS)\|How to Connect Zotero 7 to Obsidian (MacOS)]], the results of this process are pretty basic and will not enable you to automatically generate Reference Lists (RL) based on the citations that have been inserted in your text body. This is where the **[Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list)** plugin comes in. 
 
 Not only does it link your citations to your references to make export easier and enables the automatic generation of RLs, it also provides a running list of references on your right sidebar on Obsidian and allows for hovering over a citation to quickly see its corresponding reference. Most importantly, at least for me, this plugin reduces friction from looking up and inserting citations because you don't need to bring up the Zotero Search Bar anymore. You can just type in '@' and search from your text body.
 
