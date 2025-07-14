@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.620+08:00","updated":"2025-07-10T07:31:25.000+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.620+08:00","updated":"2025-07-14T16:06:39.804+08:00"}
 ---
 
 
@@ -15,7 +15,7 @@ If you're only after creating Reading Notes (and exporting annotations from Zote
 ### 1. [Download](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.238) the Better BibTeX for Zotero plugin (The file extension is .xpi)
 ![Screenshot 2024-09-30 at 9.18.10 AM 2.png](/img/user/Extras/Screenshot%202024-09-30%20at%209.18.10%20AM%202.png)
 2. Follow the [Installation Instructions](https://retorque.re/zotero-better-bibtex/installation/) for Zotero. 
-![Screenshot 2024-09-30 at 8.36.05 PM 2.png](/img/user/Extras/Screenshot%202024-09-30%20at%208.36.05%20PM%202.png)
+![Screenshot 2025-07-14 at 4.06.21 PM.png](/img/user/Extras/Screenshot%202025-07-14%20at%204.06.21%20PM.png)
 
 **What this does:** BBT generates unique 'citation keys' for each reference saved on Zotero (they will start with an '@') and facilitates exportation to Obsidian. More info on the [Retorque](https://retorque.re/zotero-better-bibtex/index.html) website.
 
