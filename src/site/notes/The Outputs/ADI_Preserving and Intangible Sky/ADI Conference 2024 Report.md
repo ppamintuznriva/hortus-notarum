@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-outputs/adi-preserving-and-intangible-sky/adi-conference-2024-report/","created":"2024-12-04T15:42:02.485+08:00","updated":"2024-12-17T13:27:03.815+08:00"}
+{"dg-publish":true,"permalink":"/the-outputs/adi-preserving-and-intangible-sky/adi-conference-2024-report/","created":"2024-12-04T15:42:02.000+08:00","updated":"2024-12-17T13:27:03.000+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/pkm-hobbies/04-support-notes/zotero-tag-taxonomy/","created":"2024-06-27T15:36:54.387+08:00","updated":"2024-09-27T11:51:56.894+08:00"}
+{"dg-publish":true,"permalink":"/efforts/pkm-hobbies/04-support-notes/zotero-tag-taxonomy/","created":"2024-06-27T15:36:54.000+08:00","updated":"2024-09-27T11:51:56.000+08:00"}
 ---
 
 (Partially adapted from [Bryan Jenks' Tag Taxonomy](https://notes.bryanjenks.dev/Z/Tag+Taxonomy))

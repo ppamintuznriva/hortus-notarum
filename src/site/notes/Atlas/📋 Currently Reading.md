@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/currently-reading/","created":"2024-06-18T09:05:16.259+08:00","updated":"2024-07-31T21:30:05.984+08:00"}
+{"dg-publish":true,"permalink":"/atlas/currently-reading/","created":"2024-06-18T09:05:16.000+08:00","updated":"2024-07-31T21:30:05.000+08:00"}
 ---
 
 

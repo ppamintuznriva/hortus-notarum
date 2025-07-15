@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/references-to-explore/","created":"2024-05-01T22:08:02.299+08:00","updated":"2024-07-23T10:46:06.530+08:00"}
+{"dg-publish":true,"permalink":"/atlas/references-to-explore/","created":"2024-05-01T22:08:02.000+08:00","updated":"2024-07-23T10:46:06.000+08:00"}
 ---
 
 ### interesting books that I find while reading

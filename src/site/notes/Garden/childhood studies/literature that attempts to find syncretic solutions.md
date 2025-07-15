@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/childhood-studies/literature-that-attempts-to-find-syncretic-solutions/","created":"2024-04-30T13:36:53.260+08:00","updated":"2024-07-31T16:20:52.166+08:00"}
+{"dg-publish":true,"permalink":"/garden/childhood-studies/literature-that-attempts-to-find-syncretic-solutions/","created":"2024-04-30T13:36:53.000+08:00","updated":"2024-07-31T16:20:52.000+08:00"}
 ---
 
 E.M.Forster’s *A Passage to India* 

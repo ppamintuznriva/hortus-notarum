@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.620+08:00","updated":"2025-07-14T16:06:39.804+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-connect-zotero-7-to-obsidian-mac-os/","created":"2024-09-30T09:11:48.000+08:00","updated":"2025-07-16T07:57:42.816+08:00"}
 ---
 
 
@@ -36,13 +36,15 @@ Download it from the link and drag it into your file explorer/Templates folder. 
 Click 'Browse' and search for 'Zotero Integration', then **install** and **enable** the plugin. The next step is to modify the plugin options.
 ![Screenshot 2024-09-30 at 11.25.13 PM 2.png](/img/user/Extras/Screenshot%202024-09-30%20at%2011.25.13%20PM%202.png)
 
-At this point, you can also set hotkeys for Zotero Integration if you like. Click on the 'Hotkeys' button on the left sidebar, search for your Zotero Integration commands and set your desired hotkeys (I like 'Cmd + Ctrl + Z' for Creating Reading Notes and 'Cmd + Ctrl + C' for inserting citations).
+**Set Your Hotkeys.** At this point, you can also set hotkeys for Zotero Integration if you like. Click on the 'Hotkeys' button on the left sidebar, search for your Zotero Integration commands and set your desired hotkeys (I like 'Cmd + Ctrl + Z' for Creating Reading Notes, 'Cmd + Ctrl + B' for inserting bibliography/reference list entries and 'Cmd + Ctrl + C' for inserting citations).
 
 ![Screenshot 2025-02-11 at 2.27.40 PM.png](/img/user/Extras/Screenshot%202025-02-11%20at%202.27.40%20PM.png)
 
 ### 3. Set the following for the plugin options/settings. 
 ![Screenshot 2024-10-01 at 12.54.27 AM 4.png](/img/user/Extras/Screenshot%202024-10-01%20at%2012.54.27%20AM%204.png)
-Remember to click 'Add Citation Format' and assign a command word/phrase (like 'Cite' or 'Insert Reference'). Select 'Formatted Citation' as the output format (for now) and choose your desired citation style.
+**Click 'Add Citation Format'** and assign a command word/phrase (like 'Cite' or 'Insert Reference'). Select 'Formatted Citation' as the output format (for now) and choose your desired citation style. Do this **twice**, one for inserting bibliography/reference list entries and one for inserting citations.
+
+**Click 'Add Import Format'** and assign a command to create your Reading Note. I've included a screenshot below for suggestions on how fill in the options. 
 
 ![Screenshot 2024-10-01 at 1.06.39 AM 1.png](/img/user/Extras/Screenshot%202024-10-01%20at%201.06.39%20AM%201.png)
 

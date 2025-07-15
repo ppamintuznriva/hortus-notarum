@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-outputs/adi-preserving-and-intangible-sky/101-preserving-an-intangible-sky-conference-paper/preserving-an-intangible-sky/preserving-an-intangible-sky-abstract/","created":"2024-09-11T10:16:56.282+08:00","updated":"2024-12-03T16:33:57.749+08:00"}
+{"dg-publish":true,"permalink":"/the-outputs/adi-preserving-and-intangible-sky/101-preserving-an-intangible-sky-conference-paper/preserving-an-intangible-sky/preserving-an-intangible-sky-abstract/","created":"2024-09-11T10:16:56.000+08:00","updated":"2024-12-03T16:33:57.000+08:00"}
 ---
 
 

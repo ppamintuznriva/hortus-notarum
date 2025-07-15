@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/obsidian-to-ms-word-academic-workflow-ft-the-enhancing-export-plugin/","created":"2025-07-01T14:21:32.000+08:00","updated":"2025-07-09T16:36:11.000+08:00"}
+{"dg-publish":true,"permalink":"/gardening/obsidian-to-ms-word-academic-workflow-ft-the-enhancing-export-plugin/","created":"2025-07-01T14:21:32.702+08:00","updated":"2025-07-09T16:36:11.903+08:00"}
 ---
 
 (aka how to use submit Word files to your supervisors without losing your mind)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/critical-heritage/heritage-s-function-as-commodity-or-resource/","created":"2024-06-18T13:47:21.319+08:00","updated":"2025-03-30T12:01:00.174+08:00"}
+{"dg-publish":true,"permalink":"/garden/critical-heritage/heritage-s-function-as-commodity-or-resource/","created":"2024-06-18T13:47:21.000+08:00","updated":"2025-03-30T12:01:00.000+08:00"}
 ---
 
 $  heritage also exists as an economic commodity, which may overlap, conflict with or even deny its cultural role. [[@grahamGeographyHeritagePower2000] p. 3)](zotero://open-pdf/library/items/5YVAQYBG?page=3&annotation=PE5EIJIH)

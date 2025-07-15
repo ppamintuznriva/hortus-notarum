@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/critical-heritage/heritage-is-political/","created":"2024-06-17T14:54:07.891+08:00","updated":"2024-08-01T23:07:13.379+08:00"}
+{"dg-publish":true,"permalink":"/garden/critical-heritage/heritage-is-political/","created":"2024-06-17T14:54:07.000+08:00","updated":"2024-08-01T23:07:13.000+08:00"}
 ---
 
 

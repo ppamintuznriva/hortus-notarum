@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-set-up-pandoc-and-pandoc-reference-list-plugin-for-obsidian/","created":"2025-07-08T14:55:22.000+08:00","updated":"2025-07-13T16:56:08.962+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-set-up-pandoc-and-pandoc-reference-list-plugin-for-obsidian/","created":"2025-07-08T14:55:22.062+08:00","updated":"2025-07-13T16:56:08.000+08:00"}
 ---
 
 After you have done all the needed steps to connect Zotero and Obsidian, you will be able insert citations easily while you write in Obsidian by simply calling up your Zotero library through the Command Palette or through one of your assigned [[Gardening/Setting up an Obsidian Vault for the first time#Hotkeys\|Hotkeys]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/how-to-share-an-obsidian-vault-via-google-drive/","created":"2025-05-22T07:28:50.000+08:00","updated":"2025-07-01T13:42:39.000+08:00"}
+{"dg-publish":true,"permalink":"/gardening/how-to-share-an-obsidian-vault-via-google-drive/","created":"2025-05-22T07:28:50.720+08:00","updated":"2025-07-01T13:42:39.306+08:00"}
 ---
 
 1. Both parties must have [Google for Desktop](https://support.google.com/drive/answer/10838124?hl=en#zippy=%2Cinstall-set-up-drive-for-desktop-for-macos)

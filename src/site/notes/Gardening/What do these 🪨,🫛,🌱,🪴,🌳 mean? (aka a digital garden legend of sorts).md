@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gardening/what-do-these-mean-aka-a-digital-garden-legend-of-sorts/","created":"2025-07-13T15:22:42.423+08:00","updated":"2025-07-13T15:34:39.955+08:00"}
+{"dg-publish":true,"permalink":"/gardening/what-do-these-mean-aka-a-digital-garden-legend-of-sorts/","created":"2025-07-13T15:22:42.000+08:00","updated":"2025-07-13T15:34:39.000+08:00"}
 ---
 
 I think we've already [[Efforts/PKM + Hobbies/04 Support Notes/Zotero Tag Taxonomy\|established]] that I'm a millennial and you can pry my emojis from my cold, dead hands.
